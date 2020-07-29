@@ -43,7 +43,28 @@
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author": {
+        "**/*.yml": "github-name",
+        "**/*.md": "github-name"
+      },
+      "ms.author": {
+        "**/*.yml": "mslpol",
+        "**/*.md": "mslpol"
+      },
+      "ms.prod": {
+        "**/*.yml": "lifecycle",
+        "**/*.md": "lifecycle"
+      },
+      "ms.topic": {
+        "**/*.yml": "lifecycle",
+        "**/*.md": "lifecycle"
+      },
+      "titleSuffix": {
+        "**/*.yml": "Microsoft Lifecycle",
+        "**/*.md": "Microsoft Lifecycle"
+      }
+    },
     "template": [],
     "dest": "lifecycle-data",
     "markdownEngineName": "markdig"
