@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817561"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Rechenzentrum, Rechenzentrum ohne Hyper-v, Enterprise, Enterprise ohne Hyper-v, für Itanium-basierte Systeme, Foundation, Standard, Standard ohne Hyper-v, Internet
+
+
+  > [!IMPORTANT]
+
+  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Informationen zum Server Upgrade](/windows-server/upgrade/upgrade-overview)\n* [Extended Security Update Program (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Extended Security Updates (ESU) sind über spezifische Volumenlizenzierungsprogramme für Rechenzentrums-, Standard-, Enterprise-und Embedded-Editionen dieser Produkteditionen bis zu drei weiteren Jahren nach dem Ende des Supports verfügbar. Wenden Sie sich an Ihren Microsoft-Partner oder Ihr Konto Team, um weitere Informationen zu erhalten. \n\nVeröffentlichungs-------------------------------Start Datum----Enddatum\n\nErweitertes Sicherheits Update Jahr 3---01/11/2022---01/10/2023\n\nErweitertes Sicherheits Update Jahr 2---01/12/2021---01/11/2022\n\nErweitertes Sicherheits Update Jahr 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation veröffentlicht am 21. Mai 2009\n\n## <a name=\"editions\"></a>Editionen \n* Datencenter\n* Rechenzentrum ohne Hyper-V\n* Unternehmen\n* Enterprise ohne Hyper-V\n* für Itanium-basierte Systeme\n* Foundation\n* Standard\n* Standard ohne Hyper-V\n* Netz"
