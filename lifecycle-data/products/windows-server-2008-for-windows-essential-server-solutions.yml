@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 für Windows Essential Server-Lösungen
+  description: Windows Server 2008 für Windows Essential Server-Lösungen folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817190"
+name: Windows Server 2008 für Windows Essential Server-Lösungen
+summary: >
+  Windows Server 2008 für Windows Essential Server-Lösungen folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Standard, ohne Hyper-V
+
+
+  > [!IMPORTANT]
+
+  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/18/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 02/18/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Produktinformationen](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard\n* ohne Hyper-V"
