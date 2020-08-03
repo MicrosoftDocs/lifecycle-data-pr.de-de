@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 viel 2019 LTSC
+  description: Windows 10 viel 2019 LTSC folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869372"
+name: Windows 10 viel 2019 LTSC
+summary: >+
+  Windows 10 viel 2019 LTSC folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Core, Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10-Core-Dienste](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [er Windows 10 Oktober Update (Version 1809) wurde am 13. November 2018 erneut veröffentlicht. Support Termine wurden entsprechend angepasst.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WAAS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10-lang Zeit Wartungs Kanal\n\n## <a name=\"editions\"></a>Editionen \n* Haupt-Onboarding\n* Unternehmen"
