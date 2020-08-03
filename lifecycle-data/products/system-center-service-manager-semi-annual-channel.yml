@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Halbjährlicher Kanal von System Center Service Manager
+  description: Der halbjährliche Kanal von System Center Service Manager folgt der modernen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869380"
+name: Halbjährlicher Kanal von System Center Service Manager
+summary: >
+  Der halbjährliche Kanal von System Center Service Manager folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+
+
+
+  > [!IMPORTANT]
+
+  > Die Unterstützung wurde beendet. Siehe Migrationsleitfaden unten.
+products:
+- msc
+policyType: modern-on-prem
+supportDates:
+  start: 02/08/2018
+  end: 01/24/2020
+releases:
+- version: Version 1807
+  startDate: 07/24/2018
+  endDate: 01/24/2020
+- version: Version 1801
+  startDate: 02/08/2018
+  endDate: 08/08/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/system-center/scsm/upgrade-sm?view=sc-sm-2019)"

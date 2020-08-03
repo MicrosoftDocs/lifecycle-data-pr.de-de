@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 für Talent
+  description: Dynamics 365 für Talent folgt der modernen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869348"
+name: Dynamics 365 für Talent
+summary: >+
+  Dynamics 365 für Talent folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Onboard
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>Links \n* [Systemanforderungen](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Migrationsleitfaden](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Anzieh-und Onboard-apps werden am 2. Februar 2022 zurückgezogen.  Core HR Relaunch as Dynamics 365 Personalressourcen am 1. Februar 2020 finden Sie unter Migrationsleitfaden Weitere Informationen.\n\n## <a name=\"editions\"></a>Editionen \n* Onboarding"

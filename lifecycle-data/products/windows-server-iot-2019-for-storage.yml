@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server viel 2019 für Speicher
+  description: Windows Server viel 2019 für die Speicherung folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869361"
+name: Windows Server viel 2019 für Speicher
+summary: >+
+  Windows Server viel 2019 für die Speicherung folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard\n* Workgroup"
