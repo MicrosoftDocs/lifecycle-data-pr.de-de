@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BitLocker-Verwaltung und-Überwachung 2,5
+  description: Die Microsoft BitLocker-Verwaltung und-Überwachung 2,5 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854006"
+name: Microsoft BitLocker-Verwaltung und-Überwachung 2,5
+summary: >+
+  Die Microsoft BitLocker-Verwaltung und-Überwachung 2,5 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 05/01/2014
+  end: 07/09/2019
+  extendedEnd: 04/14/2026
+releases:
+- version: Service Pack 1
+  startDate: 08/03/2015
+  endDate: 04/14/2026
+- version: Original Release
+  startDate: 05/01/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)"

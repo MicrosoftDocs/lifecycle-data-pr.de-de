@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2013
+  description: Microsoft Office 2013 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854129"
+name: Microsoft Office 2013
+summary: >+
+  Microsoft Office 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Webserver apps Server
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 gilt nicht für die webapps Server-Edition. \n\n## <a name=\"editions\"></a>Editionen \n* Home und Business \n* Home und Student \n* Professionell\n* Professional Plus\n* Professional Plus Home Use-Programm\n* Standard\n* Webapps-Server"

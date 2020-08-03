@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 8
+  description: Windows 8 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853930"
+name: Windows 8
+summary: >
+  Windows 8 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Enterprise, Enterprise n, n, pro mit Media Center, Professional, Professional n
+
+
+  > [!IMPORTANT]
+
+  > Die Unterstützung für dieses Produkt wurde beendet. Kunden müssen auf Windows 8.1 aktualisieren, um weiterhin unterstützt zu werden.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Links \n* [FAQ zum Lebenszyklus – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Editionen \n* Unternehmen\n* Enterprise N\n* N\n* Pro mit Media Center\n* Professionell\n* Professional N"

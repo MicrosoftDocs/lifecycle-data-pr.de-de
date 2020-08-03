@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8,1-Handheld
+  description: Windows Embedded 8,1-Handheld folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854152"
+name: Windows Embedded 8,1-Handheld
+summary: >
+  Windows Embedded 8,1-Handheld folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+
+  > [!IMPORTANT]
+
+  > Die Unterstützung für dieses Produkt wurde beendet. Wenn Ihre Organisation diese Plattformen weiterhin aufrecht erhält und weitere Fragen hat, wenden Sie sich an Ihr Konto Team.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10-Menge](/windows/iot-core/windows-iot-core)"
