@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Class Server 3,0
+  description: Microsoft Class Server 3,0 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d393a373e1a6b59165567eab05a2f777bdddece9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817368"
+name: Microsoft Class Server 3,0
+summary: >+
+  Microsoft Class Server 3,0 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 08/20/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Original Release
+  startDate: 08/20/2003
+  endDate: 10/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard"
