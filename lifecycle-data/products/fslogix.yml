@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FSLogix
+  description: FSLogix folgt der modernen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853856"
+name: FSLogix
+summary: >+
+  FSLogix folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 03/15/2016
+  end: 09/01/2019
+releases:
+- version: Original Release
+  startDate: 03/15/2016
+  endDate: 09/01/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Herunterladen und Installieren von FSLogix](/fslogix/install-ht)\n* [FSLogix-Unterstützung](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Der Support für dieses Produkt unterliegt den Bedingungen seiner Akquisition."

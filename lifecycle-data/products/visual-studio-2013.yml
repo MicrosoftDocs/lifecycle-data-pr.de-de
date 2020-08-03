@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854155"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Agents, all, Community, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte-MFC-Bibliothek, Premium, Professional, Veröffentlichungsverwaltung, Remote Tools, SDK, Shell (integriert), Shell (isoliert), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, WebTools-Erweiterungen
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Links \n* [Dienstinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Agenten\n* Alle\n* Community\n* Express für das Internet\n* Express für Windows\n* Express für Windows-Desktop\n* IntelliTrace-Kollektor\n* Modellierungs-SDK\n* Multibyte-MFC-Bibliothek\n* Premium\n* Professionell\n* Veröffentlichungsverwaltung\n* Remote Tools\n* SDK\n* Shell (integriert)\n* Shell (isoliert)\n* Team Explorer\n* Testen von Professional\n* Ultimate\n* Visual C++ Redistributable\n* Webtools-Erweiterungen"

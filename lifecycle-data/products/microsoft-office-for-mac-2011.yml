@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office für Mac 2011
+  description: Microsoft Office für Mac 2011 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853783"
+name: Microsoft Office für Mac 2011
+summary: >+
+  Microsoft Office für Mac 2011 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 01/29/2013
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/12/2012
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 04/15/2011
+  endDate: 07/09/2013
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 01/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Die Mainstream-Unterstützung für Microsoft Office für Mac 2011 wird wie dargestellt erweitert, um allen Kunden die standardmäßige Lebenszyklus Überblendungs Zeitachse bereitzustellen.\n\n## <a name=\"editions\"></a>Editionen \n* Akademischen\n* Home und Business \n* Home and Business Home Use-Programm\n* Home und Student \n* Standard"

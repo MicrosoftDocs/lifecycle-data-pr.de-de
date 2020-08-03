@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365 Apps for Enterprise
+  description: Microsoft 365 Apps für Unternehmen folgt der modernen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853834"
+name: Microsoft 365 Apps for Enterprise
+summary: >+
+  Microsoft 365 Apps für Unternehmen folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Links \n* [Office-Konfigurationsunterstützungsmatrix](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Systemanforderungen](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Dienstinformationen](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> Dieses Produkt wurde zuvor Office 365 ProPlus genannt."

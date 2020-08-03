@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Entity Framework-Kern
+  description: Entity Framework Core folgt der modernen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854019"
+name: Entity Framework-Kern
+summary: >+
+  Entity Framework Core folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Links \n* [FAQ zum Lebenszyklus-.net Core](/lifecycle/faq/dotnet-core)\n* [Dienstinformationen](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.Net-Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)"

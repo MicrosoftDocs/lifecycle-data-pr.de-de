@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center Configuration Manager 2007 R3
+  description: Microsoft System Center Configuration Manager 2007 R3 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854113"
+name: Microsoft System Center Configuration Manager 2007 R3
+summary: >
+  Microsoft System Center Configuration Manager 2007 R3 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+
+  > [!IMPORTANT]
+
+  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 12/19/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 12/19/2010
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Zusätzliche Migrations Anleitungen](/mem/configmgr/core/migration/planning-for-migration)"

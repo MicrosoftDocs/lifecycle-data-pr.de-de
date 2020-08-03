@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Visual Studio 2015 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "853933"
+name: Visual Studio 2015
+summary: >+
+  Visual Studio 2015 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Agents, Community, Enterprise, Express for Internet, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (integriert), Shell (isoliert), Test Professional, Visual C++ Redistributable
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Links \n* [Dienstinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Agenten\n* Community\n* Unternehmen\n* Express für das Internet\n* Express für Windows 10\n* Express für Windows-Desktop\n* Modellierungs-SDK\n* Professionell\n* Veröffentlichungsverwaltung\n* Remote Tools\n* SDK\n* Shell (integriert)\n* Shell (isoliert)\n* Testen von Professional\n* Visual C++ Redistributable"
