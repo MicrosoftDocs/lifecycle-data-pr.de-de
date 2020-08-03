@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Communicator 2005
+  description: Microsoft Office Communicator 2005 folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2c6dc97b10a0fd56d9fff4d2d6578f511d9b0b7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "817685"
+name: Microsoft Office Communicator 2005
+summary: "Microsoft Office Communicator 2005 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Standard\n\n> [!IMPORTANT]\n> Die Unterstützung für dieses Produkt wurde beendet. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 08/13/2005
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Original Release
+  startDate: 08/13/2005
+  endDate: 10/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard"
