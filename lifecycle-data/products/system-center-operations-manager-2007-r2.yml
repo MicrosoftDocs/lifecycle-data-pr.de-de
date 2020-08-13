@@ -2,13 +2,13 @@
 metadata:
   title: System Center Operations Manager 2007 R2
   description: System Center Operations Manager 2007 R2 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816702"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892498"
 name: System Center Operations Manager 2007 R2
 summary: "System Center Operations Manager 2007 R2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\n\n> [!IMPORTANT]\n> Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten. \n"
 products:

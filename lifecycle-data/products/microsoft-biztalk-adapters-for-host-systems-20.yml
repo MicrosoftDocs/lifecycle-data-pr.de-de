@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft BizTalk-Adapter für Host Systeme 2,0
   description: Microsoft BizTalk-Adapter für Host Systeme 2,0 folgen der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817387"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893497"
 name: Microsoft BizTalk-Adapter für Host Systeme 2,0
 summary: >+
   Microsoft BizTalk-Adapter für Host Systeme 2,0 folgen der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
