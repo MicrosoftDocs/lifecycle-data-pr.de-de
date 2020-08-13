@@ -2,13 +2,13 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 folgt der Komponenten-Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c247083877fd4640384b3a038a13888e2f4ddcd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853837"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893645"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 folgt der [Komponenten](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) -Lebenszyklusrichtlinie.

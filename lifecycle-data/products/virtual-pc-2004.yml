@@ -2,13 +2,13 @@
 metadata:
   title: Virtueller PC 2004
   description: Virtual PC 2004 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 869a0829186bfc00b527cb9196a97356020ea033
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817229"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893275"
 name: Virtueller PC 2004
 summary: >
   Virtual PC 2004 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
