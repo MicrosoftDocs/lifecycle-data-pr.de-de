@@ -1,13 +1,13 @@
 ---
 title: Exportieren von Produkten
 description: Exportieren von Informationen zum Produktlebenszyklus
-ms.date: 08/13/2020
-ms.openlocfilehash: 392fea55e33da62de142ddf7fe2d70e1aec3e0da
-ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+ms.date: 08/17/2020
+ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
+ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "893312"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "899801"
 ---
 # <a name="export"></a>Exportieren
 
@@ -23,7 +23,7 @@ Exportieren Sie alle Produkte ohne Filter.
 ## <a name="export-products-by-category"></a>Produkte nach Kategorie exportieren
 Wählen Sie eine zu exportierende Gruppierung aus:
 
-> [!div class="op_multi_selector" title1="Familie" title2="Group"]
+> [!div class="op_multi_selector" title1="Familie" title2="Gruppe"]
 > - [(.Net | Alle](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
 > - [(.net | .net)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET'%20and%20parent/parent/name%20eq%20'.NET')
 > - [(Azure | Alle](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Azure')
