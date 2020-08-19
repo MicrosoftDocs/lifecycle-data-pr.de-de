@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: Der Entscheidungsträger folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904085"
+name: PolicyMaker
+summary: >+
+  Der Entscheidungsträger folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+  Dies gilt für die folgenden Editionen: Anwendungssicherheit, Outlook Edition, Professional 9,0, Registrierungs Erweiterung 2,0, Freigabe-Manager 1,0, Software Update 1,0, Software Update 2,0, Standard 1,0, Standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Der Support für dieses Produkt unterliegt den Bedingungen seiner Akquisition.\n\n## <a name=\"editions\"></a>Editionen \n* Anwendungssicherheit\n* Outlook-Edition\n* Professional 9,0\n* Registrierungs Erweiterung 2,0\n* Freigabe-Manager 1,0\n* Software Update 1,0\n* Software Update 2,0\n* Standard 1,0\n* Standard 2,0"
