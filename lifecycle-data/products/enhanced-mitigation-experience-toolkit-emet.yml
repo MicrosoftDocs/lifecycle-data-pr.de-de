@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Emet (Enhanced mindern Experience Toolkit)
+  description: Das Enhanced mindern Experience Toolkit (Emet) folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905295"
+name: Emet (Enhanced mindern Experience Toolkit)
+summary: >+
+  Das Enhanced mindern Experience Toolkit (Emet) folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2016
+  end: 12/30/2016
+  extendedEnd: 07/31/2018
+releases:
+- version: Original Release
+  startDate: 12/30/2016
+  endDate: 07/31/2018
+content: ''
