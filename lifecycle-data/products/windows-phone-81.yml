@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 8.1
-  description: Windows Phone 8,1 folgt der festen Lebenszyklusrichtlinie.
+  description: Windows Phone 8.1 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853974"
 name: Windows Phone 8.1
 summary: >
-  Windows Phone 8,1 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Phone 8.1 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet.
+  > Der Support für dieses Produkt wurde beendet.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows Phone 8,1 FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft stellt Updates für das Betriebs System, einschließlich Sicherheitsupdates, mindestens 36 Monate nach dem Startdatum des Lebenszyklus zur Verfügung. Diese Updates sind inkrementell, wobei jedes Update auf dem vorhergehenden Update basiert. Kunden müssen jedes Update installieren, um weiterhin unterstützt zu werden. Die Verteilung dieser inkrementellen Updates wird möglicherweise vom Mobilfunkanbieter oder vom Telefonhersteller gesteuert, von dem Sie Ihr Telefon erworben haben, und für die Installation ist es erforderlich, dass Ihr Telefon über vorherige Updates verfügt. Die Verfügbarkeit der Updates variiert auch je nach Land, Region und Hardwarefunktionen."
+content: "\n## <a name=\"links\"></a>Links \n* [Häufig gestellte Fragen zu Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft stellt für einen Zeitraum von 36 Monaten ab dem Lebenszyklus-Startdatum Updates für das Betriebssystem (einschließlich Sicherheitsupdates) zur Verfügung. Diese Updates sind inkrementell. Jedes Update basiert auf dem vorhergehenden Update. Die Kunden müssen jedes Update installieren, um weiterhin Support zu erhalten. Die Verteilung dieser inkrementellen Updates kann durch den Mobilfunkanbieter oder den Telefonhersteller, von dem Sie das Telefon erworben haben, gesteuert werden, und die Installation setzt voraus, dass das Telefon über alle vorherigen Updates verfügt. Die Update-Verfügbarkeit ist vom Land, der Region und den Hardwarefunktionen abhängig."

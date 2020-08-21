@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Small Business Server 2011
-  description: Windows Small Business Server 2011 folgt der festen Lebenszyklusrichtlinie.
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853881"
-name: Windows Small Business Server 2011
+name: Windows Small Business Server 2011
 summary: >
-  Windows Small Business Server 2011 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Small Business Server 2011 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Essentials, Premium-Add-on, Standard
+  Dies gilt für die folgenden Editionen: Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > Das Support Datum für dieses Produktpaket wird durch die jeweiligen Lebenszyklen der einzelnen Komponenten Produkte bestimmt. Überprüfen Sie den Lebenszyklus der einzelnen Komponenten Produkte, um die Dauer des Supports zu ermitteln.
+  > Das Supportdatum für dieses Produktpaket richtet sich nach den jeweiligen Lebenszyklen der einzelnen Komponenten. Schauen Sie sich die Lebenszyklen der einzelnen Komponenten an, um den entsprechenden Supportzeitraum zu bestimmen.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Migrieren von Windows Small Business Server 2011 Standard zu Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Editionen \n* Essentials\n* Premium-Add-on\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Migrieren von Windows Small Business Server 2011 Standard zu Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Editionen \n* Essentials\n* Premium Add-On\n* Standard"
