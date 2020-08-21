@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5,0 für Windows-Desktops
-  description: Microsoft Application Virtualization Hosting 5,0 für Windows-Desktops folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Application Virtualization Hosting 5.0 für Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853823"
-name: Microsoft Application Virtualization Hosting 5,0 für Windows-Desktops
+name: Microsoft Application Virtualization Hosting 5.0 für Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 5,0 für Windows-Desktops folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: für Windows-Desktops
+  Dies gilt für die folgenden Editionen: for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* für Windows-Desktops"
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* for Windows Desktops"

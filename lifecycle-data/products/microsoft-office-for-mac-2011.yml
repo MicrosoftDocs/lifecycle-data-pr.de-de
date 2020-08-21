@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office für Mac 2011
-  description: Microsoft Office für Mac 2011 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Office 2011 für Mac
+  description: Microsoft Office für Mac 2011 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853783"
-name: Microsoft Office für Mac 2011
+name: Microsoft Office 2011 für Mac
 summary: >+
-  Microsoft Office für Mac 2011 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Office für Mac 2011 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Die Mainstream-Unterstützung für Microsoft Office für Mac 2011 wird wie dargestellt erweitert, um allen Kunden die standardmäßige Lebenszyklus Überblendungs Zeitachse bereitzustellen.\n\n## <a name=\"editions\"></a>Editionen \n* Akademischen\n* Home und Business \n* Home and Business Home Use-Programm\n* Home und Student \n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Der allgemeine Support für Microsoft Office für Mac 2011 wurde wie gezeigt verlängert, damit alle Kunden über einen dem Standardlebenszyklus entsprechenden Umstellungszeitraum verfügen.\n\n## <a name=\"editions\"></a>Editionen \n* Academic\n* Home und Business \n* Home and Business Home Use Program\n* Home and Student\n* Standard"

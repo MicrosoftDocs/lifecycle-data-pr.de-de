@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2013
-  description: Visual Studio 2013 folgt der festen Lebenszyklusrichtlinie.
+  title: Visual Studio 2013
+  description: Visual Studio 2013 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854155"
-name: Visual Studio 2013
+name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Visual Studio 2013 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Agents, all, Community, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte-MFC-Bibliothek, Premium, Professional, Veröffentlichungsverwaltung, Remote Tools, SDK, Shell (integriert), Shell (isoliert), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, WebTools-Erweiterungen
+  Dies gilt für die folgenden Editionen: Agents, Alle, Community, Express für Web, Express für Windows, Express für Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integriert), Shell (Isoliert), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Links \n* [Dienstinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Agenten\n* Alle\n* Community\n* Express für das Internet\n* Express für Windows\n* Express für Windows-Desktop\n* IntelliTrace-Kollektor\n* Modellierungs-SDK\n* Multibyte-MFC-Bibliothek\n* Premium\n* Professionell\n* Veröffentlichungsverwaltung\n* Remote Tools\n* SDK\n* Shell (integriert)\n* Shell (isoliert)\n* Team Explorer\n* Testen von Professional\n* Ultimate\n* Visual C++ Redistributable\n* Webtools-Erweiterungen"
+content: "\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Agents\n* Alle\n* Community\n* Express für Web\n* Express für Windows\n* Express für Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remotetools\n* SDK\n* Shell (Integriert)\n* Shell (Isoliert)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

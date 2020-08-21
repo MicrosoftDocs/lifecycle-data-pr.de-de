@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Workflow-Manager 1.0
-  description: Workflow-Manager 1.0 folgt der festen Lebenszyklusrichtlinie.
+  title: Workflow Manager 1.0
+  description: Workflow Manager 1.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853972"
-name: Workflow-Manager 1.0
+name: Workflow Manager 1.0
 summary: >+
-  Workflow-Manager 1.0 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Workflow Manager 1.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Client
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [SharePoint 2016-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 Service Informationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Wenn Workflow-Manager eine Komponente von SharePoint Server 2016 oder SharePoint Server 2013 ist, wird Sie entsprechend dem Ende der Support Daten der jeweiligen SharePoint Server Version unterstützt.\n\n## <a name=\"editions\"></a>Editionen \n* Client"
+content: "\n## <a name=\"links\"></a>Links \n* [SharePoint 2016-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Wenn Workflow Manager eine Komponente von SharePoint Server 2016 oder SharePoint Server 2013 ist, wird das Produkt bis zum Ende des Supportzeitraums der jeweiligen SharePoint Server-Version unterstützt.\n\n## <a name=\"editions\"></a>Editionen \n* Client"

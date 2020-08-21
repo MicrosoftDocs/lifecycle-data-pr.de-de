@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013 folgt der festen Lebenszyklusrichtlinie.
+  description: Visual Studio Team Foundation Server 2013 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854064"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Visual Studio Team Foundation Server 2013 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: all, Release Management
+  Dies gilt für die folgenden Editionen: Alle, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Dienstinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Für Release Management Server für TFS 2013 wird Update 4 gemäß den Richtlinien Richtlinien bis 4/9/2024 unterstützt.\n\n## <a name=\"editions\"></a>Editionen \n* Alle\n* Veröffentlichungsverwaltung"
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Wartungsinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Für Release Management Server für TFS 2013 wird Update 4 gemäß den Richtlinien bis zum 09.04.2024 unterstützt.\n\n## <a name=\"editions\"></a>Editionen \n* Alle\n* Release Management"
