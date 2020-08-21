@@ -2,17 +2,19 @@
 metadata:
   title: Visual Studio Team Foundation Server 2010
   description: Visual Studio Team Foundation Server 2010 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7f7de1b78c00f878d13a9e9bd1af80d1f1d541e2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816853"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906792"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
   Visual Studio Team Foundation Server 2010 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
 
+
+  Dies gilt für die folgenden Editionen: alle anwendbaren externen Connectors
 
 products:
 - vs
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure-Entwicklungs-OPS](https://azure.microsoft.com/services/devops/migrate/)"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure-Entwicklungs-OPS](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Editionen \n* Alle anwendbar\n* Externer Connector"
