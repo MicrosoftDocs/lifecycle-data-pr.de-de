@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server viel 2019
-  description: Windows Server viel 2019 folgt der festen Lebenszyklusrichtlinie.
+  title: Windows Server IoT 2019
+  description: Windows Server IoT 2019 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869359"
-name: Windows Server viel 2019
+name: Windows Server IoT 2019
 summary: >+
-  Windows Server viel 2019 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Server IoT 2019 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Rechenzentrum, Essentials, Standard, Telekommunikation
+  Dies gilt für die folgenden Editionen: Datacenter, Essentials, Standard, Telecommunications
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [FAQ zum Lebenszyklus-Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Alle Versionen von Windows Server viel 2019 entsprechen dem Windows Server 2019-Lebenszyklus.\n\n## <a name=\"editions\"></a>Editionen \n* Datencenter\n* Essentials\n* Standard\n* Telekommunikations"
+content: "\n## <a name=\"links\"></a>Links \n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Für alle Versionen von Windows Server IoT 2019 gilt der Lebenszyklus von Windows Server 2019.\n\n## <a name=\"editions\"></a>Editionen \n* Datacenter\n* Essentials\n* Standard\n* Telecommunications\n\n"

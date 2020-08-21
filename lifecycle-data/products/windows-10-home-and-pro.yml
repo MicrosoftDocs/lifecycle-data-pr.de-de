@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Home und pro
-  description: Windows 10 Home und pro folgt der modernen Lebenszyklusrichtlinie.
+  title: Windows 10 Home und Pro
+  description: Windows 10 Home und Pro folgen der Modern-Lifecycle-Richtlinie.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879151"
-name: Windows 10 Home und pro
+name: Windows 10 Home und Pro
 summary: >
-  Windows 10 Home und pro folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+  Windows 10 Home und Pro folgen der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Home, pro, pro for Education, pro für Workstations, Professional
+  Dies gilt für die folgenden Editionen: Home, Pro, Pro for Education, Pro for Workstations, Professional
 
 
   > [!IMPORTANT]
 
-  > Microsoft unterstützt weiterhin mindestens einen Windows 10-halbjährlichen Kanal bis zum 14. Oktober 2025.
+  > Microsoft wird bis zum 14. Oktober 2025 weiterhin mindestens einen halbjährlichen Windows 10-Kanal unterstützen.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WAAS)](/windows/deployment/update/waas-quick-start)\n* [Faktenblatt zum Windows-Lebenszyklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [FAQ zum Lebenszyklus-Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro für Workstation erstmals veröffentlicht mit Version 1703\n> [!NOTE]\n> Sofern nicht zurückgestellt, können nachfolgende Windows 10-halbjährliche Kanal Feature-Updates vor dem angegebenen End of Mainstream-Support Datum installiert werden.\n\n## <a name=\"editions\"></a>Editionen \n* Startseite\n* Pro\n* Pro für Bildungseinrichtungen\n* Pro für Workstations\n* Professionell"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informationsblatt zum Lebenszyklus von Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation wurde zuerst mit Version 1703 veröffentlicht\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional\n\n"

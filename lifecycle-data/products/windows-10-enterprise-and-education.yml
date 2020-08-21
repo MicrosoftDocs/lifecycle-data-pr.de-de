@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Enterprise und Education
-  description: Windows 10 Enterprise und Education Folgen der modernen Lebenszyklusrichtlinie.
+  title: Windows 10 Enterprise and Education
+  description: Windows 10 Enterprise and Education folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879153"
-name: Windows 10 Enterprise und Education
+name: Windows 10 Enterprise and Education
 summary: >
-  Windows 10 Enterprise und Education Folgen der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+  Windows 10 Enterprise and Education folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Education, Enterprise
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft unterstützt weiterhin mindestens einen Windows 10-halbjährlichen Kanal bis zum 14. Oktober 2025.
+  > Microsoft wird bis zum 14. Oktober 2025 weiterhin mindestens einen halbjährlichen Windows 10-Kanal unterstützen.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WAAS)](/windows/deployment/update/waas-quick-start)\n* [Produktinformationen](/windows/windows-10/)\n* [Faktenblatt zum Windows-Lebenszyklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [FAQ zum Lebenszyklus-Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Sofern nicht zurückgestellt, können nachfolgende Windows 10-halbjährliche Kanal Feature-Updates vor dem angegebenen End of Mainstream-Support Datum installiert werden.\n\n## <a name=\"editions\"></a>Editionen \n* Schulung und Weiterbildung\n* Unternehmen"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Produktinformationen](/windows/windows-10/)\n* [Informationsblatt zum Lebenszyklus von Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Education\n* Enterprise\n\n"

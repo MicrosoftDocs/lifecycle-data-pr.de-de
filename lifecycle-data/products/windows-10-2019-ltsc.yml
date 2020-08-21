@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2019 LTSC
-  description: Windows 10 2019 LTSC folgt der festen Lebenszyklusrichtlinie.
+  description: Windows 10 2019 LTSC folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869398"
 name: Windows 10 2019 LTSC
 summary: >+
-  Windows 10 2019 LTSC folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows 10 2019 LTSC folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Enterprise
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 Oktober-Update (Version 1809) Re-Release](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows as a Service (WAAS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Editionen \n* Unternehmen"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10-Update vom Oktober (Version 1809), erneute Veröffentlichung](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Häufig gestellte Fragen zu Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise"

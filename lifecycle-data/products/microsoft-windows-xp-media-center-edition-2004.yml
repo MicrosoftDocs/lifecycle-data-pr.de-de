@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2004
-  description: Microsoft Windows XP Media Center Edition 2004 folgt der festen Lebenszyklusrichtlinie.
+  description: Microsoft Windows XP Media Center Edition 2004 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 08/05/2020
   ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883437"
 name: Microsoft Windows XP Media Center Edition 2004
 summary: >+
-  Microsoft Windows XP Media Center Edition 2004 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Windows XP Media Center Edition 2004 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Media Center

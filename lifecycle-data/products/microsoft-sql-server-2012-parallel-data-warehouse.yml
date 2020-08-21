@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 paralleles Data Warehouse (Analyse Platt Form System)
-  description: Microsoft SQL Server 2012 paralleles Data Warehouse (Analyse Platt Form System) folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)
+  description: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869457"
-name: Microsoft SQL Server 2012 paralleles Data Warehouse (Analyse Platt Form System)
+name: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)
 summary: >
-  Microsoft SQL Server 2012 paralleles Data Warehouse (Analyse Platt Form System) folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 parallele Data Warehouse (PDW) wurde als APS umbenannt (Analyseplattform-System)
+  > SQL Server 2012 Parallel Data Warehouse (PDW) wurde in APS (Analytics Platform System) umbenannt.
 products:
 - sql-server
 policyType: fixed
