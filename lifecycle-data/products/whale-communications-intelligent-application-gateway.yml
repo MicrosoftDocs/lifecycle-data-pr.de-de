@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Intelligentes Anwendungs Gateway für Whale Communications
+  description: Whale Communications Intelligent Application Gateway folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
+  ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907139"
+name: Intelligentes Anwendungs Gateway für Whale Communications
+summary: >+
+  Whale Communications Intelligent Application Gateway folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/10/2007
+  end: 07/13/2010
+releases:
+- version: "3.1"
+  startDate: 10/10/2007
+  endDate: 07/08/2008
+- version: "3.6"
+  startDate: 10/10/2007
+  endDate: 07/13/2010
+content: "\n\n> [!NOTE]\n> Der Support für dieses Produkt unterliegt den Bedingungen des Erwerbs."
