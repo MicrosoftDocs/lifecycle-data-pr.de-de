@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Outlook 2007
-  description: Microsoft Office Outlook 2007 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Office Outlook 2007
+  description: Microsoft Office Outlook 2007 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 055e54e56049aef38f71fd906c5af6438674032a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817665"
-name: Microsoft Office Outlook 2007
+name: Microsoft Office Outlook 2007
 summary: >+
-  Microsoft Office Outlook 2007 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Office Outlook 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Standard, mit Business Contact Manager, mit Interconnect

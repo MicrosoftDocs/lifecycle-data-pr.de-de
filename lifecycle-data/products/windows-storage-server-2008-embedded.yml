@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 Embedded
-  description: Windows Storage Server 2008 Embedded folgt der festen Lebenszyklusrichtlinie.
+  description: Windows Storage Server 2008 Embedded folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816839"
 name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Storage Server 2008 Embedded folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
+  Dies gilt für die folgenden Editionen: 32-Bit, 64-Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Dieses Produkt hat das Ende der Unterstützung erreicht. Siehe weiter unten für Migrations Anleitungen.\n\n## <a name=\"editions\"></a>Editionen \n* 32 Bit\n* 64 Bit\n* Standard\n* Grundlegende 32-Bit\n* Unternehmen\n* Standard\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Der Support für dieses Produkt ist abgelaufen. Migrationsleitfaden siehe weiter unten.\n\n## <a name=\"editions\"></a>Editionen \n* 32-Bit\n* 64-Bit\n* Standard\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

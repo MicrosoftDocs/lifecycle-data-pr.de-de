@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Korrekturhilfen für Microsoft Office 2003
-  description: Microsoft Office 2003 Korrekturhilfen Folgen der festen Lebenszyklusrichtlinie.
+  title: Microsoft Office 2003-Korrekturhilfen
+  description: Microsoft Office 2003-Korrekturhilfen folgen der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817695"
-name: Korrekturhilfen für Microsoft Office 2003
+name: Microsoft Office 2003-Korrekturhilfen
 summary: >+
-  Microsoft Office 2003 Korrekturhilfen Folgen der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Office 2003-Korrekturhilfen folgen der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4,5 für Windows-Desktops
-  description: Microsoft Application Virtualization Hosting 4,5 für Windows-Desktops folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Application Virtualization Hosting 4.5 für Windows-Desktops
+  description: Microsoft Application Virtualization Hosting 4.5 for Windows Desktops folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817405"
-name: Microsoft Application Virtualization Hosting 4,5 für Windows-Desktops
+name: Microsoft Application Virtualization Hosting 4.5 für Windows-Desktops
 summary: >
-  Microsoft Application Virtualization Hosting 4,5 für Windows-Desktops folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Application Virtualization Hosting 4.5 for Windows Desktops folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: für Windows-Desktops
+  Dies gilt für die folgenden Editionen: for Windows Desktops
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsinformationen unten.
+  > Der Support für dieses Produkt wurde beendet. Migrationsinformationen finden Sie weiter unten.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Produkt-und Migrationsinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* für Windows-Desktops"
+content: "\n## <a name=\"links\"></a>Links \n* [Produkt- und Migrationsinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* for Windows Desktops"

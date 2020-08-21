@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2008 R2 paralleles Data Warehouse
-  description: Microsoft SQL Server 2008 R2 parallele Data Warehouse folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816961"
-name: Microsoft SQL Server 2008 R2 paralleles Data Warehouse
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Microsoft SQL Server 2008 R2 parallele Data Warehouse folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
