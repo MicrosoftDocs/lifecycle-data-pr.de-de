@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows-Speicher Server 2008
-  description: Windows Storage Server 2008 folgt der festen Lebenszyklusrichtlinie.
+  title: Windows Storage Server 2008
+  description: Windows Storage Server 2008 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816673"
-name: Windows-Speicher Server 2008
+name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Storage Server 2008 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Basic, Basic 32-Bit, Basic 64-Bit, Basic Embedded, Basic Embedded 32-Bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Dieses Produkt hat das Ende der Unterstützung erreicht. Siehe weiter unten für Migrations Anleitungen.
+  > Der Support für dieses Produkt ist abgelaufen. Migrationsleitfaden siehe weiter unten.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informationen zum Server Upgrade](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard\n* Grundlegende 32-Bit\n* Grundlegende 64-Bit\n* Standard eingebettet\n* Grundlegende Embedded 32-Bit\n* Unternehmen\n* Enterprise Embedded\n* Standard\n* Standard eingebettet\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Serverupgradeinformationen](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard\n* Basic 32-Bit\n* Basic 64-Bit\n* Basic Embedded\n* Basic Embedded 32-Bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

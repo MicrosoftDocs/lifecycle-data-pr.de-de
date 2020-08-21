@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 4,5
-  description: Microsoft Application Virtualization 4,5 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Application Virtualization 4.5
+  description: Microsoft Application Virtualization 4.5 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817412"
-name: Microsoft Application Virtualization 4,5
+name: Microsoft Application Virtualization 4.5
 summary: >
-  Microsoft Application Virtualization 4,5 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Application Virtualization 4.5 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: für Terminal Dienste, für Windows-Desktops
+  Dies gilt für die folgenden Editionen: for Terminal Services, for Windows Desktops
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Da der APP-v 4,6-Client den App-v 4,5-Server verwendet, wird der APP-v 4,5-Server weiterhin gemäß den Lebenszyklusdaten von App-v 4,6 unterstützt, wenn er mit dem unterstützten App-v 4,6-Client verwendet wird.\n\n## <a name=\"editions\"></a>Editionen \n* für Terminal Dienste\n* für Windows-Desktops"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Da der App-V 4.6-Client den App-V 4.5 Server nutzt, wird der App-V 4.5 Server weiterhin entsprechend den Lebenszyklusdaten von App-V 4.6 unterstützt, wenn er mit dem unterstützten App-V 4.6-Client verwendet wird.\n\n## <a name=\"editions\"></a>Editionen \n* for Terminal Services\n* for Windows Desktops"

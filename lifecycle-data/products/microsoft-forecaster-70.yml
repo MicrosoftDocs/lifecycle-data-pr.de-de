@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Meteorologe 7,0
-  description: Microsoft Meteorologe 7,0 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817339"
-name: Microsoft Meteorologe 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Meteorologe 7,0 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Forecaster 7.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Die Unterstützung von Meteorologen endet an dem angezeigten Datum, es sei denn, Sie wird als Komponente eines Dynamics-Produkts verteilt. Wenn Sie mit einem Dynamics-Produkt verteilt sind, überschreiben die Termine des Dynamics-Lebenszyklus das Datum des Meteorologen."
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Der Support für Forecaster endet am angegebenen Datum, es sei denn, es wurde als Komponente eines Dynamics-Produkts verteilt. Bei der Verteilung mit einem Dynamics-Produkt gelten die Dynamics-Lebenszyklusdaten anstelle des Datums von Forecaster."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! für Windows XP
-  description: Microsoft Plus! für Windows XP folgt die Fixed Lifecycle-Richtlinie.
+  title: Microsoft Plus! für Windows XP
+  description: Microsoft Plus! für Windows XP folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817238"
-name: Microsoft Plus! für Windows XP
+name: Microsoft Plus! für Windows XP
 summary: >+
-  Microsoft Plus! für Windows XP folgt die [Fixed](/lifecycle/policies/fixed) Lifecycle-Richtlinie.
+  Microsoft Plus! für Windows XP folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

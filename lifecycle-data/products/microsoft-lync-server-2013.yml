@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft lync Server 2013 folgt der festen Lebenszyklusrichtlinie.
+  description: Microsoft Lync Server 2013 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817000"
-name: Microsoft Lync Server 2013
+name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft lync Server 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Lync Server 2013 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Unternehmen, Software Development Kit für beständigen Chat, Telefon, SDK, Standard
+  Dies gilt für die folgenden Editionen: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition wird mit lync Server 2010 und lync Server 2013 unterstützt. Der Support Termin für lync Phone Edition wurde um 2 Jahre verlängert, um den lync Server 2013 Lebenszyklus auszurichten.\n\n## <a name=\"editions\"></a>Editionen \n* Unternehmen\n* Software Development Kit für beständigen Chat\n* Telefon\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition wird mit Lync Server 2010 und Lync Server 2013 unterstützt. Die Supportdauer für Lync Phone Edition wurde entsprechend des Lync Server 2013-Lebenszyklus um zwei Jahre verlängert.\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"

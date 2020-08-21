@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816721"
-name: Microsoft Visual Studio 2005
+name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Visual Studio 2005 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Professional, Standard, Standard Edition Academic License, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Last Agent, Tools für das Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual-webdeveloper Express
+  Dies gilt für die folgenden Editionen: Professional, Standard, Standard Edition Academic License, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools für Microsoft Office-System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Informationen zur Visual J#-Unterstützung](https://msdn.microsoft.com/vstudio/bb188593)\n* [Migrationsleitfaden](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio Produktinformationen](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Die Unterstützung für dieses Produkt wurde beendet. Siehe weiter unten für Migrations Anleitungen.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals wurde am 2. März 2007 veröffentlicht.\n\n## <a name=\"editions\"></a>Editionen \n* Professionell\n* Standard\n* Academic-Lizenz der Standard Edition\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition für Software Entwickler\n* Team Edition für Software Tester\n* Team Suite\n* Team Test-Auslastungs-Agent\n* Tools für das Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual-Webentwickler-Express"
+content: "\n## <a name=\"links\"></a>Links \n* [Informationen zum Support von Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Migrationsleitfaden](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio-Produktinformationen](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Der Support für dieses Produkt wurde beendet. Migrationsleitfaden siehe weiter unten.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals wurde am 2. März 2007 veröffentlicht.\n\n## <a name=\"editions\"></a>Editionen \n* Professional\n* Standard\n* Standard Edition Academic License\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools für Microsoft Office-System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

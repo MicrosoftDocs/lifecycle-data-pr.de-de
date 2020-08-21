@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2009
-  description: BizTalk Server 2009 folgt der festen Lebenszyklusrichtlinie.
+  description: BizTalk Server 2009 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817607"
 name: BizTalk Server 2009
 summary: >
-  BizTalk Server 2009 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  BizTalk Server 2009 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Branch, Developer, Enterprise, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten.
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informationen zur Version](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Zweig\n* Developer\n* Unternehmen\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Versionsinformationen](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Branch\n* Developer\n* Enterprise\n* Standard"

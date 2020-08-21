@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Intelligent Application Gateway 2007
-  description: Microsoft Intelligent Application Gateway 2007 folgt der festen Lebenszyklusrichtlinie.
+  description: Microsoft Intelligent Application Gateway 2007 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817427"
 name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  Microsoft Intelligent Application Gateway 2007 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Intelligent Application Gateway 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten.
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft Intelligent Application Gateway 2007-Roadmap](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Roadmap für Microsoft Intelligent Application Gateway 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)"

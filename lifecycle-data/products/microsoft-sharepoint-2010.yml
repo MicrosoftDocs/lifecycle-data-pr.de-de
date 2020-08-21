@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (für Internet Websites)
-  description: Microsoft SharePoint 2010 (für Internet Websites) folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft SharePoint 2010 (for Internet Sites)
+  description: Microsoft SharePoint 2010 (for Internet Sites) folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817297"
-name: Microsoft SharePoint 2010 (für Internet Websites)
+name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: >+
-  Microsoft SharePoint 2010 (für Internet Websites) folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft SharePoint 2010 (for Internet Sites) folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: für Internetwebsites Enterprise, für Internetwebsites Standard
+  Dies gilt für die folgenden Editionen: for Internet Sites Enterprise, for Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Produktdokumentation](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentation für Entwickler](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Das Ende des Support Datums dieses Produkts wurde vom 13. Oktober 2020 bis zum 13. April 2021 verlängert.\n\n## <a name=\"editions\"></a>Editionen \n* für Internet Websites Enterprise\n* für Internet Websites Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Produktdokumentation](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentation für Entwickler](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Das Serviceende für dieses Produkt wurde vom 13. Oktober 2020, auf den 13. April 2021, verschoben.\n\n## <a name=\"editions\"></a>Editionen \n* for Internet Sites Enterprise\n* for Internet Sites Standard"
