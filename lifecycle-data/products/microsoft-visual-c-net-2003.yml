@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Visual C# .NET 2003
   description: Microsoft Visual C# .NET 2003 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 224f57c3d47360d475841e3025eb3c56a9602660
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 01c1997ae4df75f9bf16de6e95e4206a6eb334e6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817261"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929528"
 name: Microsoft Visual C# .NET 2003
 summary: >+
   Microsoft Visual C# .NET 2003 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
