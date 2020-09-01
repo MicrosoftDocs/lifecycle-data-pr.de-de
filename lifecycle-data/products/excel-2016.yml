@@ -2,13 +2,14 @@
 metadata:
   title: Excel 2016
   description: Excel 2016 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6bd4e446cb6522d96c70332a2bfb3ebd6c295dfe
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: adc8a9314803f35736020adca73db52b6c1e3243
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854014"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931489"
 name: Excel 2016
 summary: >+
   Excel 2016 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.

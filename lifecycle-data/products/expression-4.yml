@@ -2,13 +2,14 @@
 metadata:
   title: Ausdruck 4
   description: Ausdruck 4 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816771"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930860"
 name: Ausdruck 4
 summary: >+
   Ausdruck 4 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Das Ende der Mainstream-Unterstützung für Expression Studio Ultimate 4 ist der 13. Oktober 2015.\n\n## <a name=\"editions\"></a>Editionen \n* Entwurf\n* Encoder\n* Studio Ultimate\n* Netz"
+content: "\n\n> [!NOTE]\n> Das Ende der Mainstream-Unterstützung für Expression Studio Ultimate 4 ist der 13. Oktober 2015.\n\n## <a name=\"editions\"></a>Editionen \n* Entwurf\n* Encoder\n* Studio Ultimate\n* Web"
