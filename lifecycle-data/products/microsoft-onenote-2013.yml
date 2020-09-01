@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft OneNote 2013
   description: Microsoft OneNote 2013 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8bb63a60952c80abd00cac4785199d2b0a98bd4e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 7a07605f91f495b4b6b7c3eeecebd907f403b9f1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854121"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932562"
 name: Microsoft OneNote 2013
 summary: >+
   Microsoft OneNote 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.

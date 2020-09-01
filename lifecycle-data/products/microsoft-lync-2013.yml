@@ -2,13 +2,14 @@
 metadata:
   title: Lync 2013
   description: Lync 2013 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853801"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933339"
 name: Lync 2013
 summary: >+
   Lync 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
