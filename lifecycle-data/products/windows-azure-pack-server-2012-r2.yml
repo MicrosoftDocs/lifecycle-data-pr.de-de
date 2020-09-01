@@ -2,13 +2,14 @@
 metadata:
   title: Windows Azure Pack (Server 2012 R2)
   description: Windows Azure Pack (Server 2012 R2) folgt der Component-Lifecycle-Richtlinie.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: e5e578924beb6eada37c05ac523dbcdf48445841
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: on Windows Server 2012 R2
+  ms.openlocfilehash: 70414fc5234140541a7193f29b07b4c298430272
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893952"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937002"
 name: Windows Azure Pack (Server 2012 R2)
 summary: >+
   Windows Azure Pack (Server 2012 R2) folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
@@ -29,4 +30,4 @@ releases:
 - version: V2 Web Sites
   startDate: 01/14/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Links \n* [Support-Lebenszyklusdaten für Windows Azure Pack Web Sites V2](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Produktinformationen zu Windows Azure Pack für Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Editionen \n* unter Windows Server 2012 R2\n\n"
+content: "\n## <a name=\"links\"></a>Links \n* [Support-Lebenszyklusdaten für Windows Azure Pack Web Sites V2](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Produktinformationen zu Windows Azure Pack für Windows Server](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Editionen \n* unter Windows Server 2012 R2\n"

@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Lync Server 2010
   description: Microsoft Lync Server 2010 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
-  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.date: 09/01/2020
+  keywords: Enterprise,Group Chat Software Development Kit,SDK,Standard
+  ms.openlocfilehash: 9095849697c158ed1ff78a7a1bdd940cbfc8170f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/31/2020
-  ms.locfileid: "879450"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936928"
 name: Microsoft Lync Server 2010
 summary: >+
   Microsoft Lync Server 2010 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
@@ -22,9 +23,9 @@ policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/10/2018
-  extendedEnd: 04/13/2021
+  extendedEnd: 04/11/2023
 releases:
 - version: Original Release
   startDate: 01/25/2011
-  endDate: 04/13/2021
+  endDate: 04/11/2023
 content: "\n## <a name=\"links\"></a>Links \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition wird mit Lync Server 2010 und Lync Server 2013 unterstützt. Die Supportdauer für Lync Phone Edition wurde entsprechend des Lync Server 2013-Lebenszyklus um zwei Jahre verlängert.\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"
