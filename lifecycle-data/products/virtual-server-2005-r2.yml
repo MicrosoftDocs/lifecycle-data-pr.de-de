@@ -2,15 +2,16 @@
 metadata:
   title: Virtueller Server 2005 R2
   description: Virtual Server 2005 R2 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817223"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937927"
 name: Virtueller Server 2005 R2
-summary: "Virtual Server 2005 R2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Enterprise, Standard\n\n> [!IMPORTANT]\n> Die Unterstützung für dieses Produkt wurde beendet. \n"
+summary: "Virtual Server 2005 R2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Enterprise, Standard\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Unternehmen\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise\n* Standard"
