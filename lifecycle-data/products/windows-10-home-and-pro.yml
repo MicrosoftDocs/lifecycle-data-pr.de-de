@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 Home und Pro
   description: Windows 10 Home und Pro folgen der Modern-Lifecycle-Richtlinie.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/01/2020
+  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
+  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879151"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938371"
 name: Windows 10 Home und Pro
 summary: >
   Windows 10 Home und Pro folgen der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
@@ -57,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informationsblatt zum Lebenszyklus von Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation wurde zuerst mit Version 1703 veröffentlicht\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional\n\n"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informationsblatt zum Lebenszyklus von Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation wurde zuerst mit Version 1703 veröffentlicht\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional\n"
