@@ -2,13 +2,14 @@
 metadata:
   title: Excel 2013
   description: Excel 2013 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a8420acbf87b6c3035713e5085c07f3b9db9c88f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a61ea8a7812cf8f0588cedf137009800c888809c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854016"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931526"
 name: Excel 2013
 summary: >+
   Excel 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.

@@ -2,13 +2,14 @@
 metadata:
   title: Ausdruck 2
   description: Ausdruck 2 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816772"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930823"
 name: Ausdruck 2
 summary: "Ausdruck 2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Blend, Design, Encoder, Studio, Internet\n\n> [!IMPORTANT]\n> Der Support wurde für dieses Produkt beendet. \n"
 products:
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Blend\n* Entwurf\n* Encoder\n* Studio\n* Netz"
+content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Blend\n* Entwurf\n* Encoder\n* Studio\n* Web"

@@ -2,13 +2,14 @@
 metadata:
   title: Ausdruck 3
   description: Ausdruck 3 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816770"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930749"
 name: Ausdruck 3
 summary: >+
   Ausdruck 3 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Das Startdatum für Expression Design 3 lautet November 19, 2009. \n\n## <a name=\"editions\"></a>Editionen \n* Entwurf\n* Encoder\n* Studio\n* Netz"
+content: "\n\n> [!NOTE]\n> Das Startdatum für Expression Design 3 lautet November 19, 2009. \n\n## <a name=\"editions\"></a>Editionen \n* Entwurf\n* Encoder\n* Studio\n* Web"
