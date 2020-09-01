@@ -2,15 +2,16 @@
 metadata:
   title: Ausdruck
   description: Ausdruck folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893386"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936225"
 name: Ausdruck
-summary: "Ausdruck folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Die Unterstützung für dieses Produkt wurde beendet. \n"
+summary: "Ausdruck folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. \n"
 products:
 - expression
 policyType: fixed

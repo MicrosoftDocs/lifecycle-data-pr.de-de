@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Visual SourceSafe 2005
   description: Microsoft Visual SourceSafe 2005 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9f7cb8183628d197cfa31aecea78d5bd99de34b9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f7d67637da3426c4d3852deec2e86b2910ea3424
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816862"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937631"
 name: Microsoft Visual SourceSafe 2005
 summary: >+
   Microsoft Visual SourceSafe 2005 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.

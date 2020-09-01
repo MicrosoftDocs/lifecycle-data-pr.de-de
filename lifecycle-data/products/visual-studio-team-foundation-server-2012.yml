@@ -2,19 +2,20 @@
 metadata:
   title: Visual Studio Team Foundation Server 2012
   description: Visual Studio Team Foundation Server 2012 folgt der festen Lebenszyklusrichtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fd163f4af7e1f56e537990c97f59aa03cbb323c2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: All
+  ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854065"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937335"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
   Visual Studio Team Foundation Server 2012 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
 
 
-  Dies gilt für die folgenden Editionen: alle
+  Dies gilt für die folgenden Editionen: Alle
 
 products:
 - vs
