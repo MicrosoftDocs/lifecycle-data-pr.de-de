@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8
-  description: Windows Embedded 8 folgt der festen Lebenszyklusrichtlinie.
+  title: Windows Embedded 8
+  description: Windows Embedded 8 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817217"
-name: Windows Embedded 8
+name: Windows Embedded 8
 summary: >+
-  Windows Embedded 8 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Embedded 8 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: pro, Standard
+  Dies gilt für die folgenden Editionen: Pro, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [FAQ zum Lebenszyklus-Windows-Produkte](/lifecycle/faq/windows)\n* [Windows Embedded 8,1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Kunden müssen zu Windows Emdedded 8,1 migriert werden, um weiterhin unterstützt zu werden.\n\n## <a name=\"editions\"></a>Editionen \n* Pro\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Kunden müssen zu Windows Emdedded 8.1 migrieren, um weiterhin Support zu erhalten.\n\n## <a name=\"editions\"></a>Editionen \n* Pro\n* Standard"

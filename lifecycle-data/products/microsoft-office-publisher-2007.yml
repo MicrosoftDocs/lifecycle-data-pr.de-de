@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2007
-  description: Microsoft Office Publisher 2007 folgt der festen Lebenszyklusrichtlinie.
+  description: Microsoft Office Publisher 2007 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e01522f77b919b6d35a61fbffa27a2b761a5a4d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817311"
 name: Microsoft Office Publisher 2007
 summary: >+
-  Microsoft Office Publisher 2007 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Office Publisher 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

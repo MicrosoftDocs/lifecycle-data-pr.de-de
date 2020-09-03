@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Identity Lifecycle Manager 2007
-  description: Microsoft Identity Lifecycle Manager 2007 folgt der festen Lebenszyklusrichtlinie.
+  description: Microsoft Identity Lifecycle Manager 2007 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817007"
 name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Microsoft Identity Lifecycle Manager 2007 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Identity Lifecycle Manager 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
