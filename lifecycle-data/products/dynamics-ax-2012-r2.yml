@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R2
-  description: Dynamics AX 2012 R2 folgt der festen Lebenszyklusrichtlinie.
+  description: Dynamics AX 2012 R2 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853955"
 name: Dynamics AX 2012 R2
 summary: >+
-  Dynamics AX 2012 R2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Dynamics AX 2012 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2013
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365-Migrationsprogramm](https://dynamics.microsoft.com/migration-program/)\n* [Zusätzliche Lebenszyklusinformationen](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Die Mainstream-Unterstützung wurde wie dargestellt erweitert."
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365-Migrationsprogramm](https://dynamics.microsoft.com/migration-program/)\n* [Zusätzliche Informationen zum Lebenszyklus](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Der Mainstream-Support wurde wie dargestellt verlängert."

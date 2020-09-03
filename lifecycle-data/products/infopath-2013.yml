@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2013
-  description: InfoPath 2013 folgt der festen Lebenszyklusrichtlinie.
+  description: InfoPath 2013 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853911"
 name: InfoPath 2013
 summary: >+
-  InfoPath 2013 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  InfoPath 2013 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Supportdetails](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Die Unterstützung für Microsoft InfoPath 2013 wird wie dargestellt erweitert, um die Kompatibilität mit SharePoint Server 2016 sicherzustellen.\n\n## <a name=\"editions\"></a>Editionen \n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Supportdetails](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Der Support für Microsoft InfoPath 2013 wird wie dargestellt erweitert, um die Kompatibilität mit SharePoint Server 2016 sicherzustellen.\n\n## <a name=\"editions\"></a>Editionen \n* Standard"

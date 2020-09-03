@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure und der storsimple 8000-Serie
-  description: Die Azure und der storsimple 8000-Reihe folgt der festen Lebenszyklusrichtlinie.
+  title: Azure StorSimple 8000er-Serie
+  description: Die Azure StorSimple 8000-Serie folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853692"
-name: Azure und der storsimple 8000-Serie
+name: Azure StorSimple 8000er-Serie
 summary: >+
-  Die Azure und der storsimple 8000-Reihe folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Die Azure StorSimple 8000-Serie folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Unterstützung von und der storsimple-Lösungen](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Migrationsleitfaden](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Die Unterstützung für die Azure und der storsimple 8000-Serie wird wie gezeigt erweitert, um Kunden die standardmäßige Lebenszyklus Zeitachse bereitzustellen. Die erweiterte Unterstützung umfasst nur Hardwareaustausch und Sicherheitsupdates."
+content: "\n## <a name=\"links\"></a>Links \n* [StorSimple-Lösungsunterstützung](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Migrationsleitfaden](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Der Support für die Azure StorSimple 8000-Serie wird wie dargestellt erweitert, um Kunden den Standardlebenszyklus zu gewähren. Der erweiterte Support beinhaltet nur Hardwareersatz und Sicherheitheitsupdates."
