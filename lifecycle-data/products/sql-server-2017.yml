@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL Server 2017
-  description: SQL Server 2017 folgt der festen Lebenszyklusrichtlinie.
+  title: SQL Server 2017
+  description: SQL Server 2017 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869455"
-name: SQL Server 2017
+name: SQL Server 2017
 summary: >+
-  SQL Server 2017 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  SQL Server 2017 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: unter Linux (alle Editionen), unter Windows (alle Editionen)
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2017
   endDate: 10/12/2027
-content: "\n## <a name=\"links\"></a>Links \n* [Dienstinformationen](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Beginnend mit SQL Server 2017 werden keine Service Packs freigegeben.\n\n## <a name=\"editions\"></a>Editionen \n* unter Linux (alle Editionen)\n* unter Windows (alle Editionen)"
+content: "\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Ab SQL Server 2017 werden keine Service Packs veröffentlicht.\n\n## <a name=\"editions\"></a>Editionen \n* unter Linux (alle Editionen)\n* unter Windows (alle Editionen)"

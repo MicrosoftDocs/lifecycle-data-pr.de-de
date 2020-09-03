@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtueller PC 2004
-  description: Virtual PC 2004 folgt der festen Lebenszyklusrichtlinie.
+  title: Virtual PC 2004
+  description: Virtual PC 2004 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 08/12/2020
   ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893275"
-name: Virtueller PC 2004
+name: Virtual PC 2004
 summary: >
-  Virtual PC 2004 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Virtual PC 2004 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Express, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet.
+  > Der Support für dieses Produkt wurde beendet.
 products:
 - windows
 policyType: fixed

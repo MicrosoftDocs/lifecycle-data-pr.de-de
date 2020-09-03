@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center Operations Manager 2007 R2
-  description: System Center Operations Manager 2007 R2 folgt der festen Lebenszyklusrichtlinie.
+  description: System Center Operations Manager 2007 R2 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892498"
 name: System Center Operations Manager 2007 R2
-summary: "System Center Operations Manager 2007 R2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\n\n> [!IMPORTANT]\n> Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten. \n"
+summary: "System Center Operations Manager 2007 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten. \n"
 products:
 - msc
 policyType: fixed
