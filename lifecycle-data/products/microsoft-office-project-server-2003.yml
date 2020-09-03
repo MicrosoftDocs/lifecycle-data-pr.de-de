@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Project Server 2003
-  description: Microsoft Office Project Server 2003 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Office Project Server 2003
+  description: Microsoft Office Project Server 2003 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: f3cdcd67ab11f44ba8ae5e4b54165274e1016016
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817315"
-name: Microsoft Office Project Server 2003
+name: Microsoft Office Project Server 2003
 summary: >+
-  Microsoft Office Project Server 2003 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Office Project Server 2003 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

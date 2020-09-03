@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SoftGrid Application Virtualization
-  description: Die SoftGrid-Anwendungs Virtualisierung folgt der festen Lebenszyklusrichtlinie.
+  description: SoftGrid Application Virtualization folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816706"
 name: SoftGrid Application Virtualization
 summary: >
-  Die SoftGrid-Anwendungs Virtualisierung folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  SoftGrid Application Virtualization folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: 4,1 für Desktops, 4,2 für Desktops, für Terminal Dienste 4,1
+  Dies gilt für die folgenden Editionen: 4.1 for Desktops, 4.2 for Desktops, for Terminal Services 4.1
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung wurde beendet. Siehe Migrationsleitfaden unten.
+  > Der Support wurde eingestellt. Siehe Migrationsleitfaden weiter unten.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Editionen \n* 4,1 für Desktops\n* 4,2 für Desktops\n* für Terminal Dienste 4,1"
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Editionen \n* 4.1 for Desktops\n* 4.2 for Desktops\n* for Terminal Services 4.1"
