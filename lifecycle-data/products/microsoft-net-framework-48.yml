@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 4,8
-  description: Microsoft .NET Framework 4,8 folgt der Komponenten-Lebenszyklusrichtlinie.
+  title: Microsoft .NET Framework 4.8
+  description: Microsoft .NET Framework 4.8 folgt der Component-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869437"
-name: Microsoft .NET Framework 4,8
+name: Microsoft .NET Framework 4.8
 summary: >+
-  Microsoft .NET Framework 4,8 folgt der [Komponenten](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) -Lebenszyklusrichtlinie.
+  Microsoft .NET Framework 4.8 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/18/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [FAQ zum .NET Framework Lebenszyklus](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ist eine Komponente des Windows-Betriebssystems. Komponenten erhalten dieselbe Unterstützung wie ihre übergeordneten Produkte oder Plattformen."
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [Häufig gestellte Fragen zum Lebenszyklus – .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ist eine Komponente des Windows-Betriebssystems. Für Komponenten gilt der gleiche Support wie für das übergeordnete Produkt oder die übergeordnete Plattform."
