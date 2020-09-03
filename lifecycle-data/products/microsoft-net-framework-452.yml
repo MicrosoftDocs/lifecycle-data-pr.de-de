@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 4.5.2
-  description: Microsoft .NET Framework 4.5.2 folgt der Komponenten-Lebenszyklusrichtlinie.
+  title: Microsoft .NET Framework 4.5.2
+  description: Microsoft .NET Framework 4.5.2 folgt der Component-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: c893ea681fc98a81689a258a44b5b320b82b2582
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854128"
-name: Microsoft .NET Framework 4.5.2
+name: Microsoft .NET Framework 4.5.2
 summary: >+
-  Microsoft .NET Framework 4.5.2 folgt der [Komponenten](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) -Lebenszyklusrichtlinie.
+  Microsoft .NET Framework 4.5.2 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/05/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [FAQ zum .NET Framework Lebenszyklus](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ist eine Komponente des Windows-Betriebssystems. Komponenten erhalten dieselbe Unterstützung wie ihre übergeordneten Produkte oder Plattformen."
+content: "\n## <a name=\"links\"></a>Links \n* [Produktinformationen](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Häufig gestellte Fragen zum Lebenszyklus – .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ist eine Komponente des Windows-Betriebssystems. Für Komponenten gilt der gleiche Support wie für das übergeordnete Produkt oder die übergeordnete Plattform."
