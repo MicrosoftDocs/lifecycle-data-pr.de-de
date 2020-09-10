@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: All applicable,Phone
+  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817684"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001721"
 name: Microsoft Office Communicator 2007 R2
 summary: "Microsoft Office Communicator 2007 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\nDies gilt für die folgenden Editionen: alle zutreffenden, Phone\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden. \n"
 products:

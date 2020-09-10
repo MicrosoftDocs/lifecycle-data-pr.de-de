@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Communicator 2007
   description: Microsoft Office Communicator 2007 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ab077ce0dedfc09ea235a467e0f9239d5969a2af
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Standard
+  ms.openlocfilehash: dbb46e37a768b34dd9240524f45723daa498f825
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817680"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001684"
 name: Microsoft Office Communicator 2007
 summary: "Microsoft Office Communicator 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\nDies gilt für die folgenden Editionen: Standard\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. \n"
 products:
