@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Alacris-Identitäts Validierungs Server/-Client
+  description: Alacris Identity Validation Server/Client folgt der festen Lebenszyklusrichtlinie.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002659"
+name: Alacris-Identitäts Validierungs Server/-Client
+summary: >
+  Alacris Identity Validation Server/Client folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+
+
+
+  > [!IMPORTANT]
+
+  > Der Support für dieses Produkt wurde beendet.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>Links \n* [Häufig gestellte Fragen zum Lebenszyklus – Allgemein](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Schließt Versionen aus, die schon zuvor nicht mehr unterstützt wurden. Der Support für dieses Produkt unterliegt den Bedingungen des Erwerbs."
