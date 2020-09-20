@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows-Speicher Server 2003 R2
-  description: Windows Storage Server 2003 R2 folgt der festen Lebenszyklusrichtlinie.
+  title: Windows Storage Server 2003 R2
+  description: Windows Storage Server 2003 R2 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
   ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940838"
-name: Windows-Speicher Server 2003 R2
-summary: "Windows Storage Server 2003 R2 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\nDies gilt für die folgenden Editionen: Standard\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet.\nDieses Produkt wurde mit Windows Server 2003 Service Pack 1 ausgeliefert. \n"
+name: Windows Storage Server 2003 R2
+summary: "Windows Storage Server 2003 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\nDies gilt für die folgenden Editionen: Standard\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet.\nDieses Produkt wurde mit dem Windows Server 2003 Service Pack 1 ausgeliefert. \n"
 products:
 - windows
 policyType: fixed
