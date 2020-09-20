@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Personalabteilung
-  description: Dynamics 365 Human Resources folgt der modernen Lebenszyklusrichtlinie.
+  title: Dynamics 365 Human Resources
+  description: Dynamics 365 Human Resources folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869344"
-name: Dynamics 365 Personalabteilung
+name: Dynamics 365 Human Resources
 summary: >+
-  Dynamics 365 Human Resources folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+  Dynamics 365 Human Resources folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Die zentrale HR-app (zuvor in Dynamics 365 Talent enthalten) wurde als Dynamics 365 Human Resources neu gestartet."
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Die Core HR-App (zuvor im Lieferumfang von Dynamics 365 Talent enthalten) wurde als Dynamics 365 Human Resources neu eingeführt.\n\n\n"
