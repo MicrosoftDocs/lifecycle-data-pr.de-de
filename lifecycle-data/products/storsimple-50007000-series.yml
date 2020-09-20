@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Und der storsimple 5000/7000-Serie
-  description: Und der storsimple 5000/7000-Serie folgt der festen Lebenszyklusrichtlinie.
+  title: StorSimple 5000/7000 Serie
+  description: StorSimple 5000/7000 Series folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854166"
-name: Und der storsimple 5000/7000-Serie
-summary: "Und der storsimple 5000/7000-Serie folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.\n\n\n> [!IMPORTANT]\n> Die Unterstützung für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten. \n"
+name: StorSimple 5000/7000 Serie
+summary: "StorSimple 5000/7000 Series folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten. \n"
 products:
 - azure
 policyType: fixed-mainstream-only
