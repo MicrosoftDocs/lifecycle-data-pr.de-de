@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows-Grundlagen für Ältere PCs
-  description: Windows-Grundlagen für Ältere PCs Folgen der festen Lebenszyklusrichtlinie.
+  title: Windows Fundamentals for Legacy PCs
+  description: Windows Fundamentals for Legacy PCs folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "816684"
-name: Windows-Grundlagen für Ältere PCs
+name: Windows Fundamentals for Legacy PCs
 summary: >+
-  Windows-Grundlagen für Ältere PCs Folgen der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Windows Fundamentals for Legacy PCs folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dieses Produkt folgt der gleichen Support-Lebenszyklusrichtlinie wie Windows XP."
+content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dieses Produkt folgt der gleichen Support-Lifecycle-Richtlinie wie Windows XP."

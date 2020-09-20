@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtueller PC für Mac
-  description: Virtual PC für Mac folgt der festen Lebenszyklusrichtlinie.
+  title: Virtual PC für Mac
+  description: Virtual PC für Mac folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817226"
-name: Virtueller PC für Mac
+name: Virtual PC für Mac
 summary: >+
-  Virtual PC für Mac folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Virtual PC für Mac folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2003
   endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Inklusive Version 5,01, Version 5,02, Version 5,03, Version 5,04, Version 6,01, Version 6,02, Version 6,1, Version 6.1.1 Update, Version 7, Version 7,01"
+content: "\n\n> [!NOTE]\n> Inklusive Version 5.01, Version 5.02, Version 5.03, Version 5.04, Version 6.01, Version 6.02, Version 6.1, Version 6.1.1 Update, Version 7, Version 7.01"
