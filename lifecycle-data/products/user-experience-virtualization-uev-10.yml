@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: User Experience Virtualization (UE-V) 1,0
-  description: Die User Experience Virtualization (UE-V) 1,0 folgt der festen Lebenszyklusrichtlinie.
+  title: User Experience Virtualization (UE-V) 1.0
+  description: User Experience Virtualization (UE-V) 1.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853733"
-name: User Experience Virtualization (UE-V) 1,0
+name: User Experience Virtualization (UE-V) 1.0
 summary: >+
-  Die User Experience Virtualization (UE-V) 1,0 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  User Experience Virtualization (UE-V) 1.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

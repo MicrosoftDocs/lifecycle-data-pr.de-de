@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI-Arbeitsbereichs Sammlung
-  description: Die Azure Power BI-Arbeitsbereichs Sammlung folgt der modernen Lebenszyklusrichtlinie.
+  title: Azure Power BI-Arbeitsbereichsammlung
+  description: Die Azure Power BI-Arbeitsbereichsammlung folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "853684"
-name: Azure Power BI-Arbeitsbereichs Sammlung
+name: Azure Power BI-Arbeitsbereichsammlung
 summary: >
-  Die Azure Power BI-Arbeitsbereichs Sammlung folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+  Die Azure Power BI-Arbeitsbereichsammlung folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung wurde beendet. Siehe Migrationsleitfaden unten.
+  > Der Support wurde eingestellt. Siehe Migrationsleitfaden weiter unten.
 products:
 - sql-server
 policyType: modern-online

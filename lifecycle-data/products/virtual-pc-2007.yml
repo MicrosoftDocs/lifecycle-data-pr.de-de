@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtueller PC 2007
-  description: Virtual PC 2007 folgt der festen Lebenszyklusrichtlinie.
+  title: Virtual PC 2007
+  description: Virtual PC 2007 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817227"
-name: Virtueller PC 2007
+name: Virtual PC 2007
 summary: >
-  Virtual PC 2007 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Virtual PC 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 
   > [!IMPORTANT]
 
-  > Die Unterstützung für dieses Produkt wurde beendet.
+  > Der Support für dieses Produkt wurde beendet.
 products:
 - windows
 policyType: fixed
