@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure DevOps Server 2019
-  description: Azure DevOps Server 2019 folgt der festen Lebenszyklusrichtlinie.
+  title: Azure DevOps Server 2019
+  description: Azure DevOps Server 2019 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: a15d9ba4c905a38a9743b959a5b36e8e3f24ec3b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869364"
-name: Azure DevOps Server 2019
+name: Azure DevOps Server 2019
 summary: >+
-  Azure DevOps Server 2019 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Azure DevOps Server 2019 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

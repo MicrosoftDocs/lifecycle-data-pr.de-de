@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense Applications Suite 1,0
-  description: PixelSense Applications Suite 1,0 folgt der festen Lebenszyklusrichtlinie.
+  title: PixelSense Applications Suite 1.0
+  description: PixelSense Applications Suite 1.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "892027"
-name: PixelSense Applications Suite 1,0
+name: PixelSense Applications Suite 1.0
 summary: >+
-  PixelSense Applications Suite 1,0 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  PixelSense Applications Suite 1.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:

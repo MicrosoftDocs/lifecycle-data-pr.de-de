@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure virtuelles WAN
-  description: Azure Virtual WAN folgt der modernen Lebenszyklusrichtlinie.
+  title: Azure Virtual WAN
+  description: Azure Virtual WAN folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: f6c8e8b638b9bb6a65bd3213cc23c61ad3c39b0b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869341"
-name: Azure virtuelles WAN
+name: Azure Virtual WAN
 summary: >+
-  Azure Virtual WAN folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+  Azure Virtual WAN folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
 products:
