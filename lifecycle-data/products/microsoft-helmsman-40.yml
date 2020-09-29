@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Helms 4,0
-  description: Microsoft Helms 4,0 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Helmsman 4.0
+  description: Microsoft Helmsman 4.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817705"
-name: Microsoft Helms 4,0
+name: Microsoft Helmsman 4.0
 summary: >+
-  Microsoft Helms 4,0 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Helmsman 4.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
