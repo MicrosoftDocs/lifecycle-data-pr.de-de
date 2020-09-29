@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Word 2003
-  description: Microsoft Office Word 2003 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Office Word 2003
+  description: Microsoft Office Word 2003 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: ac7b10f977be3928db5cfc26c23f7fa734106e86
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930083"
-name: Microsoft Office Word 2003
+name: Microsoft Office Word 2003
 summary: >+
-  Microsoft Office Word 2003 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Office Word 2003 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Standard
