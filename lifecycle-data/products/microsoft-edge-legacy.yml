@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Edge-Legacy
-  description: Microsoft Edge Legacy folgt der Komponenten-Lebenszyklusrichtlinie.
+  title: Microsoft Edge Legacy
+  description: Microsoft Edge Legacy folgt der Component-Lifecycle-Richtlinie.
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908729"
-name: Microsoft Edge-Legacy
+name: Microsoft Edge Legacy
 summary: >
-  Microsoft Edge Legacy folgt der [Komponenten](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) -Lebenszyklusrichtlinie.
+  Microsoft Edge Legacy folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
 
 
 
   > [!IMPORTANT]
 
-  > Bitte beachten Sie, dass die Unterstützung für dieses Produkt am 9. März 2021 endet. [Hier](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) finden Sie weitere Informationen.
+  > Bitte beachten Sie, dass der Support für dieses Produkt am 9. März 2021 endet. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
 - microsoft-edge
 policyType: component

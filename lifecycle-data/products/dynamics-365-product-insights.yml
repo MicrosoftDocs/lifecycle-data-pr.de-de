@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Produkt Einblicke
-  description: Dynamics 365 Produkt Einblicke folgt der modernen Lebenszyklusrichtlinie.
+  title: Dynamics 365 Product Insights
+  description: Dynamics 365 Product Insights folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911366"
-name: Dynamics 365 Produkt Einblicke
+name: Dynamics 365 Product Insights
 summary: >+
-  Dynamics 365 Produkt Einblicke folgt der [modernen](/lifecycle/policies/modern) Lebenszyklusrichtlinie.
+  Dynamics 365 Product Insights folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
 products:
