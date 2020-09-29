@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync 2010
-  description: Microsoft lync 2010 folgt der festen Lebenszyklusrichtlinie.
+  title: Microsoft Lync 2010
+  description: Microsoft Lync 2010 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933450"
-name: Microsoft Lync 2010
+name: Microsoft Lync 2010
 summary: >+
-  Microsoft lync 2010 folgt der [festen](/lifecycle/policies/fixed) Lebenszyklusrichtlinie.
+  Microsoft Lync 2010 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Attendant, Teilnehmer, Gruppen Chat, Standard
+  Dies gilt für die folgenden Editionen: Attendant, Attendee, Group Chat, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Telefonzentrale\n* Teilnehmer\n* Gruppenchat\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Attendant\n* Attendee\n* Group Chat\n* Standard"
