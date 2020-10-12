@@ -2,20 +2,20 @@
 metadata:
   title: Windows 10 Home und Pro
   description: Windows 10 Home und Pro folgen der Modern-Lifecycle-Richtlinie.
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938371"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026884"
 name: Windows 10 Home und Pro
 summary: >
   Windows 10 Home und Pro folgen der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
-  Dies gilt für die folgenden Editionen: Home, Pro, Pro for Education, Pro for Workstations, Professional
+  Dies gilt für die folgenden Editionen: Home, Pro, Pro Education, Pro for Workstations
 
 
   > [!IMPORTANT]
@@ -39,9 +39,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informationsblatt zum Lebenszyklus von Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation wurde zuerst mit Version 1703 veröffentlicht\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional\n"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informationsblatt zum Lebenszyklus von Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations wurde zuerst mit Version 1709 veröffentlicht.\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Home\n* Pro\n* Pro Education\n* Pro for Workstations\n"
