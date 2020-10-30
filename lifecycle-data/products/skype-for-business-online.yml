@@ -2,22 +2,16 @@
 metadata:
   title: Skype for Business Online
   description: Skype for Business Online folgt der Modern-Lifecycle-Richtlinie.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854071"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162184"
 name: Skype for Business Online
-summary: >
-  Skype for Business Online folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
-
-
-
-  > [!IMPORTANT]
-
-  > Dieser Dienst wird am 31. Juli 2021 eingestellt. Migrationsleitfaden siehe weiter unten.
+summary: "Skype for Business Online folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.\n\n\n> [!IMPORTANT]\n> Dieser Dienst wird am 31. Juli 2021 eingestellt. Migrationsleitfaden siehe weiter unten. [Hier](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) erfahren Sie mehr über die Auswirkungen auf Hybrid Voice-Bereitstellungen. \n"
 products:
 - office
 policyType: modern-online
