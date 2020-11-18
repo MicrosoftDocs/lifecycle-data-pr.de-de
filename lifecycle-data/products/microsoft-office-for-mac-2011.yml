@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2011 für Mac
-  description: Microsoft Office für Mac 2011 folgt der Fixed-Lifecycle-Richtlinie.
+  description: Microsoft Office 2011 für Mac folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
   ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "933228"
 name: Microsoft Office 2011 für Mac
 summary: >+
-  Microsoft Office für Mac 2011 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
+  Microsoft Office 2011 für Mac folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Der allgemeine Support für Microsoft Office für Mac 2011 wurde wie gezeigt verlängert, damit alle Kunden über einen dem Standardlebenszyklus entsprechenden Umstellungszeitraum verfügen.\n\n## <a name=\"editions\"></a>Editionen \n* Academic\n* Home und Business \n* Home and Business Home Use Program\n* Home and Student\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Der allgemeine Support für Microsoft Office 2011 für Mac wurde wie gezeigt verlängert, damit alle Kunden über einen dem Standardlebenszyklus entsprechenden Umstellungszeitraum verfügen.\n\n## <a name=\"editions\"></a>Editionen \n* Academic\n* Home und Business \n* Home and Business Home Use Program\n* Home and Student\n* Standard\n"
