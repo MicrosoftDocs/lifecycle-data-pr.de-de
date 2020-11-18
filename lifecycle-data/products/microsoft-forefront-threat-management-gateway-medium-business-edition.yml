@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway, Edition für mittelgroße Unternehmen
-  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition folgt der Fixed-Lifecycle-Richtlinie.
+  description: Microsoft Forefront Threat Management Gateway, Edition für mittelgroße Unternehmen folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/10/2020
   keywords: Business
   ms.openlocfilehash: 617a31241001b12abf13c658e47dbc6f0b1974a2
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1001906"
 name: Microsoft Forefront Threat Management Gateway, Edition für mittelgroße Unternehmen
 summary: >+
-  Microsoft Forefront Threat Management Gateway, Medium Business Edition folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
+  Microsoft Forefront Threat Management Gateway, Edition für mittelgroße Unternehmen folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
   Dies gilt für die folgenden Editionen: Business

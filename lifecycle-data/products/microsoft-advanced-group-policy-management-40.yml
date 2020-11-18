@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Erweiterte Gruppenrichtlinienverwaltung 4.0
+  title: Microsoft Advanced Group Policy Management 4.0
   description: Microsoft Advanced Group Policy Management 4.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
@@ -9,7 +9,7 @@ metadata:
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "817417"
-name: Microsoft Erweiterte Gruppenrichtlinienverwaltung 4.0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
   Microsoft Advanced Group Policy Management 4.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
