@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio Services in SharePoint (in Microsoft 365)
+  description: Visio Services in SharePoint (in Microsoft 365) folgt der Modern-Lifecycle-Richtlinie.
+  ms.date: 11/02/2020
+  keywords: Vision Web Access
+  ms.openlocfilehash: 0ce0c525d8040d1a1db9a5fb7f542bde67962792
+  ms.sourcegitcommit: 4b3971ed818a75c067e0efab535b719523fa9d25
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/09/2020
+  ms.locfileid: "1254672"
+name: Visio Services in SharePoint (in Microsoft 365)
+summary: >+
+  Visio Services in SharePoint (in Microsoft 365) folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/16/2010
+  end: 09/30/2021
+releases:
+- version: Original Release
+  startDate: 04/16/2010
+  endDate: 09/30/2020
+content: "\n\n> [!NOTE]\n> Das Datum der Einstellung von Visio Services in SharePoint Online (Visio Web Access) wurde vom 30. September 2020 bis zum 30. September 2021 verlängert. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541)."
