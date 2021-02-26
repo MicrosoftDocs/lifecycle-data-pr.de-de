@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: Windows 10 Enterprise and Education folgt der Modern-Lifecycle-Richtlinie.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162517"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449218"
 name: Windows 10 Enterprise and Education
 summary: >
   Windows 10 Enterprise and Education folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
@@ -20,7 +20,9 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft wird bis zum 14. Oktober 2025 weiterhin mindestens einen halbjährlichen Windows 10-Kanal unterstützen.
+  > Microsoft wird bis zum 14. Oktober 2025 weiterhin mindestens eine Veröffentlichung des halbjährlichen Windows 10-Kanals unterstützen.
+
+  Die folgende Tabelle zeigt die bisher veröffentlichten Versionen.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Produktinformationen](/windows/windows-10/)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Education\n* Enterprise\n"
+content: "\n## <a name=\"links\"></a>Links \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home und Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Produktinformationen](/windows/windows-10/)\n* [Häufig gestellte Fragen zum Lebenszyklus – Windows-Produkte](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Nachfolgende halbjährliche Funktionsupdates für Windows 10 können vor dem angegebenen Enddatum für den allgemeinen Support installiert werden, es sei denn, sie werden verzögert.\n\n## <a name=\"editions\"></a>Editionen \n* Education\n* Enterprise\n"
