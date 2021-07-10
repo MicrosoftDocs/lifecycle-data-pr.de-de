@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939518"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029837"
 name: Windows Server 2008
 summary: >
   Windows Server 2008 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten.
+  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten.
 products:
 - windows
 policyType: fixed
@@ -29,10 +29,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Serverupgradeinformationen](/windows-server/upgrade/upgrade-overview)\n* [Programm für erweiterte Sicherheitsupdates (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Erweiterte Sicherheitsupdates (Extended Security Updates, ESU) sind für die Datacenter-, Standard-, Enterprise- und Embedded-Editionen dieses Produkts noch für weitere drei Jahre nach Ablauf des Supports verfügbar. Weitere Informationen erhalten Sie von Ihrem Microsoft-Partner oder Ihrem Kontoteam. \n\nVeröffentlichung-------------------------------Startdatum----Enddatum\n\nErweitertes Sicherheitsupdate Jahr 3---11.01.2022---10.01.2023\n\nErweitertes Sicherheitsupdate Jahr 2---12.01.2021---11.01.2022\n\nErweitertes Sicherheitsupdate Jahr 1---14.01.2020---12.01.2021\n> [!NOTE]\n> Windows Server 2008 Foundation veröffentlicht am 21. Mai 2009\n\n## <a name=\"editions\"></a>Editionen \n* Datacenter\n* Datacenter ohne Hyper-V\n* Enterprise\n* Enterprise ohne Hyper-V\n* für Itanium-basierte Systeme\n* Foundation\n* Standard\n* Standard ohne Hyper-V\n* Web"
+content: "> [!TIP]\n> * Erweiterte Sicherheitsupdates (Extended Security Updates, ESU) sind über spezielle Volumenlizenzprogramme für die Datacenter-, Standard-, Enterprise- und Embedded-Editionen dieses Produkts noch für bis zu drei weitere Jahre nach Ablauf des Supports verfügbar. Weitere Informationen erhalten Sie von Ihrem Microsoft-Partner oder Ihrem Kontoteam. \n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Serverupgradeinformationen](/windows-server/upgrade/upgrade-overview)\n* [Programm für erweiterte Sicherheitsupdates (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation veröffentlicht am 21. Mai 2009\n\n## <a name=\"editions\"></a>Editionen \n* Datacenter\n* Datacenter ohne Hyper-V\n* Enterprise\n* Enterprise ohne Hyper-V\n* für Itanium-basierte Systeme\n* Foundation\n* Standard\n* Standard ohne Hyper-V\n* Web"
