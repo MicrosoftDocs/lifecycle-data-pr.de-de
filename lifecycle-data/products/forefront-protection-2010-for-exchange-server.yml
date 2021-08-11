@@ -3,12 +3,12 @@ metadata:
   title: Forefront Protection 2010 for Exchange Server
   description: Forefront Protection 2010 for Exchange Server folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 347858e96c4f8eeb392d7d0b66fcda92286a21b729a95c6e80f9c045a66002f7
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817447"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507983"
 name: Forefront Protection 2010 for Exchange Server
 summary: "Forefront Protection 2010 for Exchange Server folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\n\n> [!IMPORTANT]\n> Die Roadmap für Sicherheitsprodukte unter der Marke Forefront hat sich geändert. Dieses Produkt wird zum 31. Dezember 2015 eingestellt. Weitere Informationen finden Sie im Migrationsleitfaden. \n"
 products:
