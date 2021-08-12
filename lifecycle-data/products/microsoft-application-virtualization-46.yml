@@ -3,38 +3,44 @@ metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
-  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935559"
+  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
 name: Microsoft Application Virtualization 4.6
-summary: >+
+summary: |+
   Microsoft Application Virtualization 4.6 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: for Remote Desktop Services, for Windows Desktops, Sequencer
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Produkt- und Migrationsinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migrationsleitfaden](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Da der App-V 4.6-Client den App-V 4.5 Server nutzt, wird der App-V 4.5 Server weiterhin entsprechend den Lebenszyklusdaten von App-V 4.6 unterstützt, wenn er mit dem unterstützten App-V 4.6-Client verwendet wird.\n\n## <a name=\"editions\"></a>Editionen \n* for Remote Desktop Services\n* for Windows Desktops\n* Sequencer"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Produkt- und Migrationsinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Migrationsleitfaden](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+  * [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Da der App-V 4.6-Client den App-V 4.5 Server nutzt, wird der App-V 4.5 Server weiterhin entsprechend den Lebenszyklusdaten von App-V 4.6 unterstützt, wenn er mit dem unterstützten App-V 4.6-Client verwendet wird.
+
+  ## <a name="editions"></a>Editionen 
+  * for Remote Desktop Services
+  * for Windows Desktops
+  * Sequencer

@@ -3,22 +3,25 @@ metadata:
   title: Microsoft Word 2011 für Mac
   description: Microsoft Word für Mac 2011 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "853938"
 name: Microsoft Word 2011 für Mac
-summary: "Microsoft Word für Mac 2011 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. \n"
+summary: |
+  Microsoft Word für Mac 2011 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
+
+
+  > [!IMPORTANT]
+  > Der Support für dieses Produkt wurde beendet. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Der allgemeine Support für Microsoft Office für Mac 2011 wurde wie dargestellt verlängert, um allen Kunden den standardmäßigen Zeitraum für die Lebenszyklusumstellung zu bieten."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > Der allgemeine Support für Microsoft Office für Mac 2011 wurde wie dargestellt verlängert, um allen Kunden den standardmäßigen Zeitraum für die Lebenszyklusumstellung zu bieten.

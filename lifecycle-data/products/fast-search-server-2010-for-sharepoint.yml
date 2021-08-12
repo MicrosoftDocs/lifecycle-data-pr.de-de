@@ -1,37 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
-  description: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) folgt der Fixed-Lifecycle-Richtlinie.
+  title: "FAST Search Server\_2010 (for SharePoint, for SharePoint Internet Sites)"
+  description: 'FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) folgt der Fixed-Lifecycle-Richtlinie.'
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936151"
-name: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
-summary: >+
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
+name: "FAST Search Server\_2010 (for SharePoint, for SharePoint Internet Sites)"
+summary: |+
   FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: for SharePoint, for SharePoint Internet Sites
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Schließt Versionen aus, die schon zuvor nicht mehr unterstützt wurden. Der Support für dieses Produkt unterliegt den Bedingungen des Erwerbs.\n\n## <a name=\"editions\"></a>Editionen \n* for SharePoint\n* for SharePoint Internet Sites"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Migrationsleitfaden](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Schließt Versionen aus, die schon zuvor nicht mehr unterstützt wurden. Der Support für dieses Produkt unterliegt den Bedingungen des Erwerbs.
+
+  ## <a name="editions"></a>Editionen 
+  * for SharePoint
+  * for SharePoint Internet Sites

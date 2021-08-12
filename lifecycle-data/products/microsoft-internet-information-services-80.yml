@@ -3,23 +3,17 @@ metadata:
   title: Microsoft-Internetinformationsdienste 8.0
   description: Microsoft-Internetinformationsdienste 8.0 folgt der Component-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "816761"
 name: Microsoft-Internetinformationsdienste 8.0
-summary: >+
+summary: |+
   Microsoft-Internetinformationsdienste 8.0 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/30/2012
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-content: "> [!TIP]\n> Diese Version ist eine Komponente und folgt dem Supportlebenszyklus des übergeordneten Hauptprodukts, Windows Server 2012 oder Windows 8.\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)\n\n\n\n"
+  - version: Original Release
+    startDate: 10/30/2012
+content: "> [!TIP]\n> Diese Version ist eine Komponente und folgt dem Supportlebenszyklus des übergeordneten Hauptprodukts, Windows Server 2012 oder Windows 8.\n\n## <a name=\"links\"></a>Links \n* [Windows Server\_2012](/lifecycle/products/windows-server-2012)\n* [Windows\_8](/lifecycle/products/windows-8)\n\n\n\n"

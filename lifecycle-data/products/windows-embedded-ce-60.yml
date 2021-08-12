@@ -1,32 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded CE 6.0
+  title: "Windows Embedded\_CE\_6.0"
   description: Windows Embedded CE 6.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a4dcc45afc796f07ef8606d1130588a449bd0e8f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817212"
-name: Windows Embedded CE 6.0
-summary: >
+name: "Windows Embedded\_CE\_6.0"
+summary: |
   Windows Embedded CE 6.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-
   > [!IMPORTANT]
-
   > Der Support für dieses Produkt wurde beendet.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/30/2006
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Original Release
-  startDate: 11/30/2006
-  endDate: 04/10/2018
-content: ''
+  - version: Original Release
+    startDate: 11/30/2006
+    endDate: 04/10/2018
+content: |+

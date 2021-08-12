@@ -1,31 +1,30 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project 2013
+  title: "Project\_2013"
   description: Project 2013 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926457"
-name: Project 2013
-summary: >+
+  keywords: 'Professional,Standard'
+name: "Project\_2013"
+summary: |+
   Project 2013 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: Professional, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Professional\n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/11/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Editionen 
+  * Professional
+  * Standard
