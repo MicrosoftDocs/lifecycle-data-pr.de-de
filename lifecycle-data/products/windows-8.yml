@@ -1,34 +1,38 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8
+  title: "Windows\_8"
   description: Windows 8 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002313"
-name: Windows 8
-summary: >
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
+name: "Windows\_8"
+summary: |
   Windows 8 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: Enterprise, Enterprise N, N, Pro mit Media Center, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > Der Support für dieses Produkt wurde beendet. Die Kunden müssen auf Windows 8.1 aktualisieren, um weiterhin Support zu erhalten.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Häufig gestellte Fragen zum Lebenszyklus – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise\n* Enterprise N\n* N\n* Pro mit Media Center\n* Professional\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Häufig gestellte Fragen zum Lebenszyklus – Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>Editionen 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro mit Media Center
+  * Professional
+  * Professional N
+  * SL

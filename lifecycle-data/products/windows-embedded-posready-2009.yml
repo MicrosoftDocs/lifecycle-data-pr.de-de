@@ -1,32 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded POSReady 2009
+  title: "Windows Embedded POSReady\_2009"
   description: Windows Embedded POSReady 2009 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817207"
-name: Windows Embedded POSReady 2009
-summary: >
+name: "Windows Embedded POSReady\_2009"
+summary: |
   Windows Embedded POSReady 2009 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-
   > [!IMPORTANT]
-
   > Der Support wurde eingestellt. Siehe Migrationsleitfaden weiter unten.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/10/2009
   end: 04/08/2014
   extendedEnd: 04/09/2019
 releases:
-- version: Original Release
-  startDate: 03/10/2009
-  endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Ende des Supports für Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows für IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+  - version: Original Release
+    startDate: 03/10/2009
+    endDate: 04/09/2019
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Ende des Supports für Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)
+  * [Windows für IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)

@@ -3,36 +3,53 @@ metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: 46aa19023778be7f5a94f58f76ba81119e32c6b7
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029874"
+  keywords: null
 name: Windows Server 2008 R2
-summary: "Windows Server 2008 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\nDies gilt für die folgenden Editionen: Datacenter, Enterprise, HPC Edition, Itanium-basierte Systeme, Standard, Web\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten. \n"
+summary: |
+  Windows Server 2008 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
+
+  Dies gilt für die folgenden Editionen: Datacenter, Enterprise, HPC Edition, Itanium-basierte Systeme, Standard, Web
+
+  > [!IMPORTANT]
+  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Extended Security Update Year 3
-  startDate: 01/11/2022
-  endDate: 01/10/2023
-- version: Extended Security Update Year 2
-  startDate: 01/12/2021
-  endDate: 01/11/2022
-- version: Extended Security Update Year 1
-  startDate: 01/14/2020
-  endDate: 01/12/2021
-- version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/09/2013
-content: "> [!TIP]\n> * Erweiterte Sicherheitsupdates (Extended Security Updates, ESU) sind über spezielle Volumenlizenzprogramme für die Datacenter-, Standard-, Enterprise- und Embedded-Editionen dieses Produkts noch für bis zu drei weitere Jahre nach Ablauf des Supports verfügbar. Weitere Informationen erhalten Sie von Ihrem Microsoft-Partner oder Ihrem Kontoteam. \n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://aka.ms/AA1ovn4)\n* [Serverupgradeinformationen](/windows-server/upgrade/upgrade-overview)\n* [Programm für erweiterte Sicherheitsupdates (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itanium-basierte Systeme\n* Standard\n* Web"
+  - version: Extended Security Update Year 3
+    startDate: 01/11/2022
+    endDate: 01/10/2023
+  - version: Extended Security Update Year 2
+    startDate: 01/12/2021
+    endDate: 01/11/2022
+  - version: Extended Security Update Year 1
+    startDate: 01/14/2020
+    endDate: 01/12/2021
+  - version: Service Pack 1
+    startDate: 02/22/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/09/2013
+content: |
+  > [!TIP]
+  > * Erweiterte Sicherheitsupdates (Extended Security Updates, ESU) sind über spezielle Volumenlizenzprogramme für die Datacenter-, Standard-, Enterprise- und Embedded-Editionen dieses Produkts noch für bis zu drei weitere Jahre nach Ablauf des Supports verfügbar. Weitere Informationen erhalten Sie von Ihrem Microsoft-Partner oder Ihrem Kontoteam. 
+
+  ## <a name="links"></a>Links 
+  * [Migrationsleitfaden](https://aka.ms/AA1ovn4)
+  * [Serverupgradeinformationen](/windows-server/upgrade/upgrade-overview)
+  * [Programm für erweiterte Sicherheitsupdates (ESU)](/lifecycle/faq/extended-security-updates)
+  * [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Editionen 
+  * Datacenter
+  * Enterprise
+  * HPC Edition
+  * Itanium-basierte Systeme
+  * Standard
+  * Web
