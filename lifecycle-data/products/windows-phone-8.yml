@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940839"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft stellt für einen Zeitraum von 36 Monaten ab dem Lebenszyklus-Startdatum Updates für das Betriebssystem (einschließlich Sicherheitsupdates) zur Verfügung. Diese Updates sind inkrementell. Jedes Update basiert auf dem vorhergehenden Update. Die Kunden müssen jedes Update installieren, um weiterhin Support zu erhalten. Die Verteilung dieser inkrementellen Updates kann durch den Mobilfunkanbieter oder den Telefonhersteller, von dem Sie das Telefon erworben haben, gesteuert werden, und die Installation setzt voraus, dass das Telefon über alle vorherigen Updates verfügt. Die Update-Verfügbarkeit ist vom Land, der Region und den Hardwarefunktionen abhängig."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft stellt für einen Zeitraum von 36 Monaten ab dem Lebenszyklus-Startdatum Updates für das Betriebssystem (einschließlich Sicherheitsupdates) zur Verfügung. Diese Updates sind inkrementell. Jedes Update basiert auf dem vorhergehenden Update. Die Kunden müssen jedes Update installieren, um weiterhin Support zu erhalten. Die Verteilung dieser inkrementellen Updates kann durch den Mobilfunkanbieter oder den Telefonhersteller, von dem Sie das Telefon erworben haben, gesteuert werden, und die Installation setzt voraus, dass das Telefon über alle vorherigen Updates verfügt. Die Update-Verfügbarkeit ist vom Land, der Region und den Hardwarefunktionen abhängig.
