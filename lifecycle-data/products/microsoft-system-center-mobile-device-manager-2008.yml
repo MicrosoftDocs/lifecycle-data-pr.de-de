@@ -1,34 +1,36 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Mobile Device Manager 2008
+  title: Microsoft System Center Data Protection Manager 2008
   description: Microsoft System Center Mobile Device Manager 2008 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/10/2020
-  keywords: All applicable,wSQL
-  ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001425"
-name: Microsoft System Center Mobile Device Manager 2008
-summary: >+
+  keywords: 'All applicable,wSQL'
+name: Microsoft System Center Data Protection Manager 2008
+summary: |+
   Microsoft System Center Mobile Device Manager 2008 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: alle zutreffenden, wSQL
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 05/14/2008
   end: 07/09/2013
   extendedEnd: 07/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/15/2008
-  endDate: 07/10/2018
-- version: Original Release
-  startDate: 05/14/2008
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Alle zutreffenden\n* wSQL"
+  - version: Service Pack 1
+    startDate: 12/15/2008
+    endDate: 07/10/2018
+  - version: Original Release
+    startDate: 05/14/2008
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Migrationsleitfaden](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)
+  * [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Editionen 
+  * Alle anwendbaren
+  * wSQL

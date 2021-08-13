@@ -3,25 +3,19 @@ metadata:
   title: Test-Agent-Controller
   description: Test-Agent-Controller folgt der Component-Lifecycle-Richtlinie.
   ms.date: 08/13/2020
-  ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
-  ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 08/14/2020
-  ms.locfileid: "894956"
 name: Test-Agent-Controller
-summary: >+
+summary: |+
   Test-Agent-Controller folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
 
 
 products:
-- vs
+  - vs
 policyType: component
 supportDates:
   start: 01/15/2014
   end: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 01/15/2014
-  endDate: 04/09/2024
-content: ''
+  - version: Original Release
+    startDate: 01/15/2014
+    endDate: 04/09/2024
+content: |+

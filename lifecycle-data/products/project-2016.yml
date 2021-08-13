@@ -1,31 +1,30 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project 2016
+  title: "Project\_2016"
   description: Project 2016 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926531"
-name: Project 2016
-summary: >+
+  keywords: 'Professional,Standard'
+name: "Project\_2016"
+summary: |+
   Project 2016 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: Professional, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Professional\n* Standard"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>Editionen 
+  * Professional
+  * Standard

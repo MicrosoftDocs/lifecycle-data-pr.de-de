@@ -3,36 +3,36 @@ metadata:
   title: Windows 7
   description: Windows 7 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
-  keywords: Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N
-  ms.openlocfilehash: 22a494a93015d2e8af3ba5e5893dd2c85daedb3b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939962"
+  keywords: 'Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N'
 name: Windows 7
-summary: "Windows 7 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\nDies gilt für die folgenden Editionen: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten. \n"
+summary: |
+  Windows 7 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
+
+  Dies gilt für die folgenden Editionen: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N
+
+  > [!IMPORTANT]
+  > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden unten. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Extended Security Update Year 3*
-  startDate: 01/11/2022
-  endDate: 01/10/2023
-- version: Extended Security Update Year 2*
-  startDate: 01/12/2021
-  endDate: 01/11/2022
-- version: Extended Security Update Year 1*
-  startDate: 01/14/2020
-  endDate: 01/12/2021
-- version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/09/2013
-content: "> [!TIP]\n> '* Erweiterte Sicherheitsupdates (Extended Security Updates, ESU) sind für Windows 7 Professional, Enterprise und Professional for Embedded Systems-Editionen dieses Produkts noch für weitere drei Jahre nach Ablauf des Supports verfügbar. Weitere Informationen erhalten Sie von Ihrem Microsoft-Partner oder Ihrem Kontoteam. \n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://support.microsoft.com/help/4057281)\n* [Upgrade von Windows 7 auf Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Programm für erweiterte Sicherheitsupdates (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N\n"
+  - version: Extended Security Update Year 3*
+    startDate: 01/11/2022
+    endDate: 01/10/2023
+  - version: Extended Security Update Year 2*
+    startDate: 01/12/2021
+    endDate: 01/11/2022
+  - version: Extended Security Update Year 1*
+    startDate: 01/14/2020
+    endDate: 01/12/2021
+  - version: Service Pack 1
+    startDate: 02/22/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/09/2013
+content: "> [!TIP]\n> '* Erweiterte Sicherheitsupdates (Extended Security Updates, ESU) sind für Windows\_7 Professional, Enterprise und Professional for Embedded Systems-Editionen dieses Produkts noch für weitere drei Jahre nach Ablauf des Supports verfügbar. Weitere Informationen erhalten Sie von Ihrem Microsoft-Partner oder Ihrem Kontoteam. \n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://support.microsoft.com/help/4057281)\n* [Upgrade von Windows 7 auf Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Programm für erweiterte Sicherheitsupdates (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N\n"

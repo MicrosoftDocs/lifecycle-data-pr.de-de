@@ -4,31 +4,27 @@ metadata:
   description: Microsoft Business Solutions – Great Plains 8.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934671"
 name: Microsoft Business Solutions – Great Plains 8.0
-summary: >
+summary: |
   Microsoft Business Solutions – Great Plains 8.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: Standard
 
-
   > [!IMPORTANT]
-
   > Der Support für dieses Produkt wurde am 13. Oktober 2009 beendet.
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/01/2004
   end: 10/13/2009
 releases:
-- version: Original Release
-  startDate: 06/01/2004
-  endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard"
+  - version: Original Release
+    startDate: 06/01/2004
+    endDate: 10/13/2009
+content: |
+
+
+
+  ## <a name="editions"></a>Editionen 
+  * Standard
