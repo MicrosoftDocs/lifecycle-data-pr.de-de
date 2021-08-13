@@ -3,25 +3,27 @@ metadata:
   title: System Center Virtual Machine Manager (halbjährlicher Kanal)
   description: System Center Virtual Machine Manager (halbjährlicher Kanal) folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869438"
 name: System Center Virtual Machine Manager (halbjährlicher Kanal)
-summary: "System Center Virtual Machine Manager (halbjährlicher Kanal) folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie. \n\n\n> [!IMPORTANT]\n> Der Support wurde eingestellt. Siehe Migrationsleitfaden weiter unten.\n"
+summary: |
+  System Center Virtual Machine Manager (halbjährlicher Kanal) folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie. 
+
+
+  > [!IMPORTANT]
+  > Der Support wurde eingestellt. Siehe Migrationsleitfaden weiter unten.
 products:
-- msc
+  - msc
 policyType: modern-on-prem
 supportDates:
   start: 02/08/2018
   end: 01/24/2020
 releases:
-- version: Version 1807
-  startDate: 07/24/2018
-  endDate: 01/24/2020
-- version: Version 1801
-  startDate: 02/08/2018
-  endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"
+  - version: Version 1807
+    startDate: 07/24/2018
+    endDate: 01/24/2020
+  - version: Version 1801
+    startDate: 02/08/2018
+    endDate: 08/08/2019
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Migrationsleitfaden](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)

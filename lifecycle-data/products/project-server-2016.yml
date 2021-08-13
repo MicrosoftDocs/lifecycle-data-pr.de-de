@@ -1,29 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project Server 2016
+  title: "Project Server\_2016"
   description: Project Server 2016 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941447"
 name: Project Server 2016
-summary: >+
+summary: |+
   Project Server 2016 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 05/01/2016
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 05/01/2016
-  endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Weitere Informationen finden Sie in der [Produkt](https://docs.microsoft.com/project/project-server-2013-and-2016) und [Entwickler](https://developer.microsoft.com/project/docs)dokumentation."
+  - version: Original Release
+    startDate: 05/01/2016
+    endDate: 07/14/2026
+content: |+
+
+
+  > [!NOTE]
+  > Weitere Informationen finden Sie in der [Produkt](https://docs.microsoft.com/project/project-server-2013-and-2016) und [Entwickler](https://developer.microsoft.com/project/docs)dokumentation.
