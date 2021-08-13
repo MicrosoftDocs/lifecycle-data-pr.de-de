@@ -3,26 +3,29 @@ metadata:
   title: Dynamics 365 for Finance and Operations
   description: Dynamics 365 for Finance and Operations folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 22bc725cf7f990b27f83a506f26a4108f3b9fea9
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048268"
+  keywords: null
 name: Dynamics 365 for Finance and Operations
-summary: >+
+summary: |+
   Dynamics 365 for Finance and Operations folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: Enterprise
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 02/19/2016
 releases:
-- version: Original Release
-  startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Roadmap für Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Entfernte oder veraltete Funktionen](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Wartungsinformationen](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Systemanforderungen](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Editionen \n* Enterprise"
+  - version: Original Release
+    startDate: 02/19/2016
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Roadmap für Microsoft Dynamics 365](https://roadmap.dynamics.com/)
+  * [Entfernte oder veraltete Funktionen](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [Wartungsinformationen](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
+  * [Systemanforderungen](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
+
+
+  ## <a name="editions"></a>Editionen 
+  * Enterprise
