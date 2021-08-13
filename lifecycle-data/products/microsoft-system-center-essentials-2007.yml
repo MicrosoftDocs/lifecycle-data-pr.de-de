@@ -3,33 +3,29 @@ metadata:
   title: Microsoft System Center Essentials 2007
   description: Microsoft System Center Essentials 2007 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 450979ddd7953f32c7ab13fd8807a289ca930959
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817278"
 name: Microsoft System Center Essentials 2007
-summary: >
+summary: |
   Microsoft System Center Essentials 2007 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
-
   > [!IMPORTANT]
-
   > Der Support für dieses Produkt wurde beendet. Siehe Migrationsleitfaden weiter unten.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 10/09/2007
   end: 07/08/2014
   extendedEnd: 07/08/2014
 releases:
-- version: Service Pack 1
-  startDate: 02/29/2008
-  endDate: 07/08/2014
-- version: Original Release
-  startDate: 10/09/2007
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n* [Migrationsleitfaden](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)"
+  - version: Service Pack 1
+    startDate: 02/29/2008
+    endDate: 07/08/2014
+  - version: Original Release
+    startDate: 10/09/2007
+    endDate: 04/14/2009
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)
+  * [Migrationsleitfaden](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)
