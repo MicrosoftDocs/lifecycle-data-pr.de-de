@@ -1,19 +1,12 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2012
+  title: "Windows Server\_2012"
   description: Windows Server 2012 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b92bdbb5164be3a4dd3e4f398fc1b9062ab98ee0
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2171928"
-name: Windows Server 2012
-summary: >+
+  keywords: null
+name: "Windows Server\_2012"
+summary: |+
   Windows Server 2012 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
 
   Dies gilt für die folgenden Editionen: Datacenter, Essentials, External Connector, for Embedded Systems, Foundation, Standard
@@ -21,23 +14,42 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Extended Security Update Year 3
-  startDate: 10/14/2025
-  endDate: 10/13/2026
-- version: Extended Security Update Year 2
-  startDate: 10/08/2024
-  endDate: 10/14/2025
-- version: Extended Security Update Year 1
-  startDate: 10/10/2023
-  endDate: 10/08/2024
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/windows-server/upgrade/upgrade-overview)\n* [Produktinformationen](/windows/release-information/status-windows-server-2012)\n* [Häufig gestellte Fragen zum Lebenszyklus der erweiterten Sicherheitsupdates](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Der allgemeine und der erweiterte Support für dieses Produkt wurden verlängert, damit die Kunden über einen dem Standardlebenszyklus entsprechenden Umstellungszeitraum verfügen. Windows Server Essentials wurde am 2. Januar 2013 veröffentlicht.\n\n\n## <a name=\"editions\"></a>Editionen \n* Datacenter\n* Essentials\n* External Connector\n* for Embedded Systems\n* Foundation\n* Standard"
+  - version: Extended Security Update Year 3
+    startDate: 10/14/2025
+    endDate: 10/13/2026
+  - version: Extended Security Update Year 2
+    startDate: 10/08/2024
+    endDate: 10/14/2025
+  - version: Extended Security Update Year 1
+    startDate: 10/10/2023
+    endDate: 10/08/2024
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |+
+
+
+  ## <a name="links"></a>Links 
+  * [Migrationsleitfaden](/windows-server/upgrade/upgrade-overview)
+  * [Produktinformationen](/windows/release-information/status-windows-server-2012)
+  * [Häufig gestellte Fragen zum Lebenszyklus der erweiterten Sicherheitsupdates](/lifecycle/faq/extended-security-updates)
+
+
+  > [!NOTE]
+  > Der allgemeine und der erweiterte Support für dieses Produkt wurden verlängert, damit die Kunden über einen dem Standardlebenszyklus entsprechenden Umstellungszeitraum verfügen. Windows Server Essentials wurde am 2. Januar 2013 veröffentlicht.
+
+
+  ## <a name="editions"></a>Editionen 
+  * Datacenter
+  * Essentials
+  * External Connector
+  * for Embedded Systems
+  * Foundation
+  * Standard
