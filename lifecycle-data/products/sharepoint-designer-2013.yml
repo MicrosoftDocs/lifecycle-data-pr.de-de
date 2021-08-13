@@ -4,28 +4,30 @@ metadata:
   description: SharePoint Designer 2013 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/10/2020
   keywords: Designer
-  ms.openlocfilehash: 158c0dee37ae297e6ef3c14e3c74ab1996eaad21
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001129"
 name: SharePoint Designer 2013
-summary: >+
+summary: |+
   SharePoint Designer 2013 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: Designer
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Supportdetails](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Der Support für Microsoft SharePoint Designer 2013 wird wie dargestellt erweitert, um die Kompatibilität mit SharePoint Server 2016 sicherzustellen.\n\n## <a name=\"editions\"></a>Editionen \n* Designer"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Supportdetails](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Der Support für Microsoft SharePoint Designer 2013 wird wie dargestellt erweitert, um die Kompatibilität mit SharePoint Server 2016 sicherzustellen.
+
+  ## <a name="editions"></a>Editionen 
+  * Designer

@@ -1,22 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Internet Explorer 9
+  title: "Internet\_Explorer\_9"
   description: Internet Explorer 9 folgt der Component-Lifecycle-Richtlinie.
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893608"
-name: Internet Explorer 9
-summary: "Internet Explorer 9 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie. \n\n\n"
+name: "Internet\_Explorer\_9"
+summary: |+
+  Internet Explorer 9 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie. 
+
+
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://www.microsoft.com/itpro/microsoft-edge)\n* [Häufig gestellte Fragen zur Lifecycle-Richtlinie von Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Ab dem 12. Januar 2016 werden technischer Support und Sicherheitsupdates nur für die jeweils aktuellste Version von Internet Explorer, die für ein unterstütztes Betriebssystem verfügbar ist, zur Verfügung gestellt."
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Migrationsleitfaden](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Häufig gestellte Fragen zur Lifecycle-Richtlinie von Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Ab dem 12. Januar 2016 werden technischer Support und Sicherheitsupdates nur für die jeweils aktuellste Version von Internet Explorer, die für ein unterstütztes Betriebssystem verfügbar ist, zur Verfügung gestellt.
