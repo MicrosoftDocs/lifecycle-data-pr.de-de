@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172039"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Bitte beachten Sie, dass der Support für die Vorgänger-Version dieses Produkts am 9. März 2021 endet. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>Links \n* [Von Microsoft Edge unterstützte Betriebssysteme](/deployedge/microsoft-edge-supported-operating-systems)\n* [Häufig gestellte Fragen zum Lebenszyklus – Internet Explorer und Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge-Lifecycle-Richtlinie](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>Links 
+  * [Von Microsoft Edge unterstützte Betriebssysteme](/deployedge/microsoft-edge-supported-operating-systems)
+  * [Häufig gestellte Fragen zum Lebenszyklus – Internet Explorer und Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  * [Microsoft Edge-Lifecycle-Richtlinie](/deployedge/microsoft-edge-support-lifecycle)

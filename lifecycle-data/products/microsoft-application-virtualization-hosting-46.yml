@@ -4,37 +4,40 @@ metadata:
   description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935448"
 name: Microsoft Application Virtualization Hosting 4.6 für Windows-Desktops
-summary: >+
+summary: |+
   Microsoft Application Virtualization Hosting 4.6 for Windows Desktops folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
 
   Dies gilt für die folgenden Editionen: for Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Produkt- und Migrationsinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Da der Application Virtualization 4.6-Client den Application Virtualization 4.5 Server nutzt, wird der Application Virtualization 4.5-Server weiterhin entsprechend den Lebenszyklusdaten von Application Virtualization V 4.6 unterstützt, wenn er mit dem unterstützten Application Virtualization 4.6-Client verwendet wird.\n\n## <a name=\"editions\"></a>Editionen \n* for Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Links 
+  * [Produkt- und Migrationsinformationen](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Service Pack-Richtlinie](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Da der App-V 4.6-Client den App-V 4.5 Server nutzt, wird der App-V 4.5 Server weiterhin entsprechend den Lebenszyklusdaten von App-V 4.6 unterstützt, wenn er mit dem unterstützten App-V 4.6-Client verwendet wird.
+
+  ## <a name="editions"></a>Editionen 
+  * for Windows Desktops

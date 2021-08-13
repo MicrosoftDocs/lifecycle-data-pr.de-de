@@ -3,23 +3,21 @@ metadata:
   title: Microsoft-Internetinformationsdienste 6.0
   description: Microsoft-Internetinformationsdienste 6.0 folgt der Component-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9fa80841324fc24ce8644f57af455c1a512c817f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "817327"
 name: Microsoft-Internetinformationsdienste 6.0
-summary: >+
+summary: |+
   Microsoft-Internetinformationsdienste 6.0 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 05/28/2003
 releases:
-- version: Original Release
-  startDate: 05/28/2003
-content: "\n\n> [!NOTE]\n> Diese Version wird als Komponente bezeichnet und folgt dem Support-Lifecycle des übergeordneten Hauptprodukts, Windows Server 2003."
+  - version: Original Release
+    startDate: 05/28/2003
+content: |+
+
+
+  > [!NOTE]
+  > Diese Version wird als Komponente bezeichnet und folgt dem Support-Lifecycle des übergeordneten Hauptprodukts, Windows Server 2003.
