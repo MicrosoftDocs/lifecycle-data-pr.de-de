@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2017 für Mac
+  description: Visual Studio 2017 für Mac folgt der Modern-Lifecycle-Richtlinie.
+  ms.date: 09/08/2021
+  keywords: 
+  ms.openlocfilehash: cca9d46b2d5b766d6431b3b606fe84edfcbb0222
+  ms.sourcegitcommit: 0781dcb4d5ec6b12507ddd053fd623ead137ca28
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "3456169"
+name: Visual Studio 2017 für Mac
+summary: >+
+  Visual Studio 2017 für Mac folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
+
+
+
+  Dies gilt für die folgenden Editionen: Community, Enterprise, Professional
+
+
+
+products:
+- vs
+policyType: modern-online
+supportDates:
+  start: 05/10/2017
+releases:
+- version: Original Release
+  startDate: 05/10/2017
+content: "\n\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen](/visualstudio/productinfo/vs-servicing-mac)\n\n\n\n\n## <a name=\"editions\"></a>Editionen \n* Community\n* Enterprise\n* Professional"
