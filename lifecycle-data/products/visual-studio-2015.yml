@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
-name: "Visual Studio\_2015"
-summary: |+
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509286"
+name: Visual Studio 2015
+summary: >+
   Visual Studio 2015 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
-  Dies gilt für die folgenden Editionen: Agents, Community, Enterprise, ESM, Express für Web, Express für Windows 10, Express für Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remotetools, SDK, Shell (Integriert), Shell (Isoliert), Test Professional, TPS, Visual C++ Redistributable
+
+
+  Dies gilt für die folgenden Editionen: Community, Enterprise, Express für Web, Express für Windows 10, Express für Windows Desktop, Professional, Release Management, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>Links 
-  * [Wartungsinformationen](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Editionen 
-  * Agents
-  * Community
-  * Enterprise
-  * ESM
-  * Express für Web
-  * Express für Windows 10
-  * Express für Windows Desktop
-  * Modeling SDK
-  * Professional
-  * PSM
-  * Release Management
-  * Remotetools
-  * SDK
-  * Shell (Integriert)
-  * Shell (Isoliert)
-  * Test Professional
-  * TPS
-  * Visual C++ Redistributable
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen für ältere Versionen von Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Service Pack-Richtlinie](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Visual Studio 2015-Versionen der folgenden Komponenten werden mit Visual Studio 2015 ausgeliefert und als Teil des Visual Studio 2015-Lebenszyklus unterstützt: Agents, ESM, SDK für Modellierung, PSM, Remotetools, SDK, Shell (integriert), Shell (isoliert), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Editionen \n* Community\n* Enterprise\n* Express für Web\n* Express für Windows 10\n* Express für Windows Desktop\n* Professional\n* Release Management\n* Test Professional"

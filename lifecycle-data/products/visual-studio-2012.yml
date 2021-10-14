@@ -2,53 +2,39 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509175"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   Visual Studio 2012 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
-  Dies gilt für die folgenden Editionen: Agents, Community 2013, Express für Web, Express für Windows 8, Express für Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integriert), Shell (Isoliert), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+
+  Dies gilt für die folgenden Editionen: Express für Web, Express für Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Links 
-  * [Produktlebenszyklus und Wartung in Visual Studio](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Editionen 
-  * Agents
-  * Community 2013
-  * Express für Web
-  * Express für Windows 8
-  * Express für Windows Desktop
-  * IntelliTrace Collector
-  * Microsoft Azure-Tools
-  * Premium
-  * Professional
-  * Remotetools
-  * Shell (Integriert)
-  * Shell (Isoliert)
-  * SQL Server Data Tools
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ Redistributable
-  * Web Tools Extensions
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen für ältere Versionen von Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Service Pack-Richtlinie](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Visual Studio 2012-Versionen der folgenden Komponenten werden mit Visual Studio 2012 ausgeliefert und als Teil des Visual Studio 2012-Lebenszyklus unterstützt: Agents, IntelliTrace Collector, Microsoft Azure-Tools, Remotetools, SDK, Shell (integriert), Shell (isoliert), SQL Server-Datentools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Editionen \n* Express für Web\n* Express für Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
