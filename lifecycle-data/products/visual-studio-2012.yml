@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 folgt der Fixed-Lifecycle-Richtlinie.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509175"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514183"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen für ältere Versionen von Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Service Pack-Richtlinie](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Visual Studio 2012-Versionen der folgenden Komponenten werden mit Visual Studio 2012 ausgeliefert und als Teil des Visual Studio 2012-Lebenszyklus unterstützt: Agents, IntelliTrace Collector, Microsoft Azure-Tools, Remotetools, SDK, Shell (integriert), Shell (isoliert), SQL Server-Datentools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Editionen \n* Express für Web\n* Express für Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Links \n* [Wartungsinformationen für ältere Versionen von Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Visual Studio 2012-Versionen der folgenden Komponenten werden mit Visual Studio 2012 ausgeliefert und als Teil des Visual Studio 2012-Lebenszyklus unterstützt: Agents, IntelliTrace Collector, Microsoft Azure-Tools, Remotetools, SDK, Shell (integriert), Shell (isoliert), SQL Server-Datentools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Editionen \n* Express für Web\n* Express für Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
