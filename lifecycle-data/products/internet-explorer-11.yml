@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 folgt der Component-Lifecycle-Richtlinie.
-  ms.date: 05/18/2021
-  keywords: 
-  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 11/03/2021
+  keywords: IE
+  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519749"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3559994"
 name: Internet Explorer 11
 summary: "Internet Explorer 11 folgt der [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)-Lifecycle-Richtlinie. \n\n\n\n\n> [!IMPORTANT]\n> Bitte beachten Sie, dass die Desktopanwendung Internet Explorer (IE) 11 die Unterstützung für bestimmte Betriebssysteme ab dem 15. Juni 2022 beendet. Kunden werden ermutigt, zu Microsoft Edge mit integriertem IE-Modus zu wechseln. Der IE-Modus ermöglicht die Abwärtskompatibilität und wird mindestens bis zum Jahr 2029 unterstützt. Darüber hinaus wird Microsoft ein Jahr vor dem Ausscheiden aus dem IE-Modus eine Benachrichtigung bereitstellen. Klicken Sie [hier](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-), um eine Liste der unterstützten Betriebssysteme für Internet Explorer zu erhalten, einschließlich der von dieser Ankündigung betroffenen Versionen.\n\n"
 products:
@@ -20,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://www.microsoft.com/itpro/microsoft-edge)\n* [Häufig gestellte Fragen zur Lebensdauer von Internet Explorer und Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Von Internet Explorer unterstützte Betriebssysteme](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Von Microsoft Edge unterstützte Betriebssysteme](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Einige Versionen von Internet Explorer werden möglicherweise auch nach dem neuesten Enddatum des Windows-Betriebssystems unterstützt, wenn erweiterte Sicherheitsupdates (ESUs) verfügbar sind. [Hier](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) finden Sie eine Liste der Produkte, die ESUs anbieten."
+content: "\n\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Häufig gestellte Fragen zur Lebensdauer von Internet Explorer und Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Von Internet Explorer unterstützte Betriebssysteme](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Von Microsoft Edge unterstützte Betriebssysteme](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Einige Versionen von Internet Explorer werden möglicherweise auch nach dem neuesten Enddatum des Windows-Betriebssystems unterstützt, wenn erweiterte Sicherheitsupdates (ESUs) verfügbar sind. [Hier](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) finden Sie eine Liste der Produkte, die ESUs anbieten."
