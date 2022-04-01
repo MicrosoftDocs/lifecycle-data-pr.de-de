@@ -1,13 +1,13 @@
 ---
 title: Produkte mit Supportende im Jahr 2016
 description: Finden Sie heraus, welche Produkte im Jahr 2016 auslaufen, das Ende des Supports erreichen oder vom allgemeinen Support auf den erweiterten Support umgestellt werden.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028168"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117551"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkte mit Supportende im Jahr 2016
 
@@ -20,13 +20,6 @@ Wenn Sie Fragen zum Support für ein Produkt haben, wenden Sie sich bitte an Ihr
 
 
 
-## <a name="release-end-of-servicing"></a>Version Serviceende
-
-Für die folgenden Produktversionen, die unter die [Modern-Richtlinie](/lifecycle/policies/modern) fallen, endete der Support im Jahr 2016.
-
-| Produkt | Serviceende |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Donnerstag, 8. Dezember 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkte, die das Ende des Supports erreichen

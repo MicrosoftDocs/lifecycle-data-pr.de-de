@@ -1,34 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Microsoft\_365 Apps"
+  title: Microsoft 365 Apps
   description: Microsoft 365 Apps folgt der Modern-Lifecycle-Richtlinie.
   ms.date: 04/07/2021
-  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
-name: "Microsoft\_365 Apps"
-summary: |+
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: df188eeb73187be1007b85338632762e6c9153b7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154995"
+name: Microsoft 365 Apps
+summary: >+
   Microsoft 365 Apps folgt der [Modern](/lifecycle/policies/modern)-Lifecycle-Richtlinie.
+
 
   Dies gilt für die folgenden Editionen: for Business, for Enterprise
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |
-
-  ## <a name="links"></a>Links 
-  * [Unterstützte Versionen](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
-  * [Systemanforderungen](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
-  * [Support-Matrix für Office-Konfigurationen](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
-  * [Leitfaden für die Bereitstellung von Microsoft 365 Apps](/DeployOffice/deployment-guide-microsoft-365-apps)
-
-  > [!NOTE]
-  > Microsoft 365 Apps for Enterprise hieß vormals Office 365 ProPlus. Microsoft 365 Apps for Business hieß vormals Office 365 Business.
-
-  ## <a name="editions"></a>Editionen 
-  * for Business
-  * for Enterprise
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Links \n* [Unterstützte Versionen](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Systemanforderungen](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Support-Matrix für Office-Konfigurationen](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Leitfaden für die Bereitstellung von Microsoft 365 Apps](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Microsoft 365 Apps for Enterprise hieß vormals Office 365 ProPlus. Microsoft 365 Apps for Business hieß vormals Office 365 Business.\n\n## <a name=\"editions\"></a>Editionen \n* for Business\n* for Enterprise"

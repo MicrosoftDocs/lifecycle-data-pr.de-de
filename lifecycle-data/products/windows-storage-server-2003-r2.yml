@@ -4,34 +4,26 @@ metadata:
   description: Windows Storage Server 2003 R2 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/01/2020
   keywords: Standard
+  ms.openlocfilehash: a3ac8ec2684100fdcf92455e99f961f7a4ec42a1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122953"
 name: Windows Storage Server 2003 R2
-summary: |
-  Windows Storage Server 2003 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
-
-  Dies gilt für die folgenden Editionen: Standard
-
-  > [!IMPORTANT]
-  > Der Support für dieses Produkt wurde beendet.
-  Dieses Produkt wurde mit dem Windows Server 2003 Service Pack 1 ausgeliefert. 
+summary: "Windows Storage Server 2003 R2 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.\n\nDies gilt für die folgenden Editionen: Standard\n\n> [!IMPORTANT]\n> Der Support für dieses Produkt wurde beendet.\nDieses Produkt wurde mit dem Windows Server 2003 Service Pack 1 ausgeliefert. \n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 03/05/2006
-  end: 07/13/2010
-  extendedEnd: 07/14/2015
+  start: 2006-03-05T00:00:00.000-08:00
+  end: 2010-07-13T22:59:59.999-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 03/13/2007
-    endDate: 07/14/2015
-  - version: Original Release
-    startDate: 03/05/2006
-    endDate: 04/14/2009
-content: |
-
-  ## <a name="links"></a>Links 
-  * [Migrationsleitfaden](/windows-server/upgrade/upgrade-overview)
-
-
-  ## <a name="editions"></a>Editionen 
-  * Standard
+- version: Service Pack 2
+  startDate: 2007-03-13T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-03-05T00:00:00.000-08:00
+  endDate: 2009-04-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Links \n* [Migrationsleitfaden](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Editionen \n* Standard"

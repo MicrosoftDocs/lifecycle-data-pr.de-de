@@ -3,24 +3,26 @@ metadata:
   title: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
   description: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop folgt der Fixed Lifecycle-Richtlinie.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3d4ffe8e7e6d2f13b220d2b7e1dd6953793ec286
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108227"
 name: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
-summary: |+
+summary: >+
   Microsoft Business Solutions for Analytics--FRx 6.7 Desktop folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: fixed
 supportDates:
-  start: 05/30/2004
-  end: 07/14/2009
-  extendedEnd: 07/08/2014
+  start: 2004-05-30T00:00:00.000-08:00
+  end: 2009-07-14T22:59:59.999-08:00
+  extendedEnd: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/30/2004
-    endDate: 07/08/2014
-content: |+
-
-
-  > [!NOTE]
-  > Der Support von FRx endet zum angegebenen Datum, es sei denn, es wird als Komponente eines Dynamics-Produkts verteilt. Bei der Verteilung mit einem Dynamics-Produkt gelten die Dynamics-Lebenszyklusdaten anstelle der FRx-Daten.
+- version: Original Release
+  startDate: 2004-05-30T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Der Support von FRx endet zum angegebenen Datum, es sei denn, es wird als Komponente eines Dynamics-Produkts verteilt. Bei der Verteilung mit einem Dynamics-Produkt gelten die Dynamics-Lebenszyklusdaten anstelle der FRx-Daten."

@@ -3,23 +3,25 @@ metadata:
   title: Virtual PC für Mac
   description: Virtual PC für Mac folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 001a8a7f9854b5160bfa8afca63c1d90ade3710c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124174"
 name: Virtual PC für Mac
-summary: |+
+summary: >+
   Virtual PC für Mac folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/12/2003
-  end: 04/13/2010
+  start: 2003-11-12T00:00:00.000-08:00
+  end: 2010-04-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/12/2003
-    endDate: 01/13/2009
-content: |+
-
-
-  > [!NOTE]
-  > Inklusive Version 5.01, Version 5.02, Version 5.03, Version 5.04, Version 6.01, Version 6.02, Version 6.1, Version 6.1.1 Update, Version 7, Version 7.01
+- version: Original Release
+  startDate: 2003-11-12T00:00:00.000-08:00
+  endDate: 2009-01-13T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Inklusive Version 5.01, Version 5.02, Version 5.03, Version 5.04, Version 6.01, Version 6.02, Version 6.1, Version 6.1.1 Update, Version 7, Version 7.01"

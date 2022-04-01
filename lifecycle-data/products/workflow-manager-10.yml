@@ -3,33 +3,29 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 folgt der Fixed-Lifecycle-Richtlinie.
   ms.date: 09/10/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: d3dcfa85b641cdeeb6e43ee61dabfc6e390ceed1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147003"
 name: Workflow Manager 1.0
-summary: |+
+summary: >+
   Workflow Manager 1.0 folgt der [Fixed](/lifecycle/policies/fixed)-Lifecycle-Richtlinie.
+
 
   Dies gilt für die folgenden Editionen: Client, Standard
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
-  start: 10/18/2012
-  end: 01/09/2018
-  extendedEnd: 01/10/2023
+  start: 2012-10-18T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
+  extendedEnd: 2023-01-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Links 
-  * [SharePoint 2016-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
-  * [SharePoint 2013-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
-
-  > [!NOTE]
-  > Wenn Workflow Manager eine Komponente von SharePoint Server 2016 oder SharePoint Server 2013 ist, wird das Produkt bis zum Ende des Supportzeitraums der jeweiligen SharePoint Server-Version unterstützt.
-
-  ## <a name="editions"></a>Editionen 
-  * Client
-  * Standard
+- version: Original Release
+  startDate: 2012-10-18T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Links \n* [SharePoint 2016-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013-Wartungsinformationen](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Wenn Workflow Manager eine Komponente von SharePoint Server 2016 oder SharePoint Server 2013 ist, wird das Produkt bis zum Ende des Supportzeitraums der jeweiligen SharePoint Server-Version unterstützt.\n\n## <a name=\"editions\"></a>Editionen \n* Client\n* Standard"
