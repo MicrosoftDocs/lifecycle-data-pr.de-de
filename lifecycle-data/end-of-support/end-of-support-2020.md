@@ -1,13 +1,13 @@
 ---
 title: Produkte mit Supportende im Jahr 2020
 description: Finden Sie heraus, welche Produkte im Jahr 2020 auslaufen, das Ende des Supports erreichen oder vom allgemeinen Support zum erweiterten Support übergehen werden.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117588"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518192"
 ---
 # <a name="products-ending-support-in-2020"></a>Produkte mit Supportende im Jahr 2020
 
@@ -38,7 +38,7 @@ Für die folgenden Produktversionen, die unter die [Modern-Richtlinie](/lifecycl
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Version 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 31. Januar 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 3. März 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | Freitag, 4. September 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | Freitag, 4. September 2020 |
 | [Microsoft Endpoint Configuration Manager, Version 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Sonntag, 27. September 2020 |
 | [Visio Services in SharePoint (in Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 30. September 2020 |
 | [Windows 10 Enterprise und Education, Version 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Version 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13. Oktober 2020 |

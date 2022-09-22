@@ -1,13 +1,13 @@
 ---
 title: Produkte mit Supportende im Jahr 2019
 description: Finden Sie heraus, welche Produkte im Jahr 2019 auslaufen, das Ende des Supports erreichen oder vom allgemeinen Support auf den erweiterten Support umgestellt werden.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4028305"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518229"
 ---
 # <a name="products-ending-support-in-2019"></a>Produkte mit Supportende im Jahr 2019
 
@@ -24,7 +24,6 @@ Die folgenden Produkte, die unter die [Modern-Richtlinie](/lifecycle/policies/mo
 
 | Produkt | Auslaufen |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | 30. September 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | Samstag, 16. November 2019 |
 
 
@@ -34,6 +33,7 @@ Für die folgenden Produktversionen, die unter die [Modern-Richtlinie](/lifecycl
 
 | Produkt | Serviceende |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | Mittwoch, 13. Februar 2019 |
 | [Visual Studio für Mac, Visual Studio 2017 für Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 8. März 2019 |
 | [Windows 10 Enterprise und Education, Version 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home und Pro, Version 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, Version 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, Version 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Version 1709](/lifecycle/products/windows-server?branch=live)<br> | 9. April 2019 |
 | [Microsoft Endpoint Configuration Manager, Version 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Montag, 20. Mai 2019 |
